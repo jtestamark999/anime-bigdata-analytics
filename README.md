@@ -3,8 +3,6 @@
 ## Overview
 This project designs and implements a Big Data pipeline for analyzing large-scale anime viewing data and metadata. The system collects, processes, stores, and analyzes anime-related datasets using distributed data processing concepts.
 
-The project is developed for CS 4265 — Big Data Analytics: Building Data Pipelines at Scale.
-
 ---
 
 ## Objectives
@@ -40,6 +38,4 @@ The system follows a layered Big Data architecture:
 Architecture diagrams are available in the `/docs` directory.
 
 ---
-
-## Project Structure
 
