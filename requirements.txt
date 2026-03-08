@@ -1,6 +1,7 @@
 The required Python libraries are the following:
 requests
 pandas
-pymongo
-pyspark
-gql
+time
+json
+os
+glob
