@@ -17,13 +17,14 @@ This project designs and implements a Big Data pipeline for analyzing large-scal
 ## Technology Stack
 
 | Layer       | Technology              |
-|-------------|--------------------------|
+
 | Storage     | Local File System / HDFS (Conceptual) |
 | Processing  | Apache Spark (PySpark)   |
 | Data Store  | MongoDB                  |
 | Querying    | Spark SQL                |
 | Formats     | JSON, CSV, Parquet        |
 
+Storage in the format of JSON for the 2 APIS and CSV for the anime table,
 ---
 
 ## System Architecture
