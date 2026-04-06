@@ -1,0 +1,2807 @@
+[
+  {
+    "mal_id": 47244,
+    "url": "https://myanimelist.net/anime/47244/Hello_Pu_Xingren__Ji_Xun_Tegong",
+    "images": {
+      "jpg": {
+        "image_url": "https://myanimelist.net/images/anime/1403/129244.jpg",
+        "small_image_url": "https://myanimelist.net/images/anime/1403/129244t.jpg",
+        "large_image_url": "https://myanimelist.net/images/anime/1403/129244l.jpg"
+      },
+      "webp": {
+        "image_url": "https://myanimelist.net/images/anime/1403/129244.webp",
+        "small_image_url": "https://myanimelist.net/images/anime/1403/129244t.webp",
+        "large_image_url": "https://myanimelist.net/images/anime/1403/129244l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Hello! Pu Xingren: Ji Xun Tegong"
+      },
+      {
+        "type": "Synonym",
+        "title": "Ha Lou! Pu Xingren Zhi Ji Xun Tegong"
+      },
+      {
+        "type": "Japanese",
+        "title": "\u54c8\u55bd\uff01\u8461\u661f\u4eba\u4e4b\u6781\u8bad\u7279\u5de5"
+      }
+    ],
+    "title": "Hello! Pu Xingren: Ji Xun Tegong",
+    "title_english": null,
+    "title_japanese": "\u54c8\u55bd\uff01\u8461\u661f\u4eba\u4e4b\u6781\u8bad\u7279\u5de5",
+    "title_synonyms": [
+      "Ha Lou! Pu Xingren Zhi Ji Xun Tegong"
+    ],
+    "type": "TV",
+    "source": "Original",
+    "episodes": 26,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2018-02-24T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 24,
+          "month": 2,
+          "year": 2018
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Feb 24, 2018 to ?"
+    },
+    "duration": "14 min per ep",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": 16998,
+    "popularity": 28477,
+    "members": 91,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Unknown"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ]
+  },
+  {
+    "mal_id": 47245,
+    "url": "https://myanimelist.net/anime/47245/Bao_Ji_Qiangshou",
+    "images": {
+      "jpg": {
+        "image_url": "https://myanimelist.net/images/anime/1336/129245.jpg",
+        "small_image_url": "https://myanimelist.net/images/anime/1336/129245t.jpg",
+        "large_image_url": "https://myanimelist.net/images/anime/1336/129245l.jpg"
+      },
+      "webp": {
+        "image_url": "https://myanimelist.net/images/anime/1336/129245.webp",
+        "small_image_url": "https://myanimelist.net/images/anime/1336/129245t.webp",
+        "large_image_url": "https://myanimelist.net/images/anime/1336/129245l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Bao Ji Qiangshou"
+      },
+      {
+        "type": "Synonym",
+        "title": "Boomguy"
+      },
+      {
+        "type": "Japanese",
+        "title": "\u66b4\u57fa\u67aa\u624b"
+      }
+    ],
+    "title": "Bao Ji Qiangshou",
+    "title_english": null,
+    "title_japanese": "\u66b4\u57fa\u67aa\u624b",
+    "title_synonyms": [
+      "Boomguy"
+    ],
+    "type": "ONA",
+    "source": "Game",
+    "episodes": 13,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2016-03-04T00:00:00+00:00",
+      "to": "2016-08-24T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 4,
+          "month": 3,
+          "year": 2016
+        },
+        "to": {
+          "day": 24,
+          "month": 8,
+          "year": 2016
+        }
+      },
+      "string": "Mar 4, 2016 to Aug 24, 2016"
+    },
+    "duration": "9 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": null,
+    "scored_by": null,
+    "rank": 15298,
+    "popularity": 24767,
+    "members": 152,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 20,
+        "type": "anime",
+        "name": "Parody",
+        "url": "https://myanimelist.net/anime/genre/20/Parody"
+      }
+    ],
+    "demographics": []
+  },
+  {
+    "mal_id": 47246,
+    "url": "https://myanimelist.net/anime/47246/Bao_Ji_Qiangshou__AK_Xiyou",
+    "images": {
+      "jpg": {
+        "image_url": "https://myanimelist.net/images/anime/1021/129246.jpg",
+        "small_image_url": "https://myanimelist.net/images/anime/1021/129246t.jpg",
+        "large_image_url": "https://myanimelist.net/images/anime/1021/129246l.jpg"
+      },
+      "webp": {
+        "image_url": "https://myanimelist.net/images/anime/1021/129246.webp",
+        "small_image_url": "https://myanimelist.net/images/anime/1021/129246t.webp",
+        "large_image_url": "https://myanimelist.net/images/anime/1021/129246l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Bao Ji Qiangshou: AK Xiyou"
+      },
+      {
+        "type": "Japanese",
+        "title": "\u66b4\u57fa\u67aa\u624b\u4e4bAK\u897f\u6e38"
+      }
+    ],
+    "title": "Bao Ji Qiangshou: AK Xiyou",
+    "title_english": null,
+    "title_japanese": "\u66b4\u57fa\u67aa\u624b\u4e4bAK\u897f\u6e38",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Game",
+    "episodes": 12,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2017-06-20T00:00:00+00:00",
+      "to": "2017-09-05T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 20,
+          "month": 6,
+          "year": 2017
+        },
+        "to": {
+          "day": 5,
+          "month": 9,
+          "year": 2017
+        }
+      },
+      "string": "Jun 20, 2017 to Sep 5, 2017"
+    },
+    "duration": "5 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": null,
+    "scored_by": null,
+    "rank": 15299,
+    "popularity": 25811,
+    "members": 128,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 20,
+        "type": "anime",
+        "name": "Parody",
+        "url": "https://myanimelist.net/anime/genre/20/Parody"
+      }
+    ],
+    "demographics": []
+  },
+  {
+    "mal_id": 47247,
+    "url": "https://myanimelist.net/anime/47247/Bao_Ji_Qiangshou__T_de_Richang",
+    "images": {
+      "jpg": {
+        "image_url": "https://myanimelist.net/images/anime/1873/129247.jpg",
+        "small_image_url": "https://myanimelist.net/images/anime/1873/129247t.jpg",
+        "large_image_url": "https://myanimelist.net/images/anime/1873/129247l.jpg"
+      },
+      "webp": {
+        "image_url": "https://myanimelist.net/images/anime/1873/129247.webp",
+        "small_image_url": "https://myanimelist.net/images/anime/1873/129247t.webp",
+        "large_image_url": "https://myanimelist.net/images/anime/1873/129247l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Bao Ji Qiangshou: T de Richang"
+      },
+      {
+        "type": "Japanese",
+        "title": "\u66b4\u57fa\u67aa\u624b\u4e4bt\u7684\u65e5\u5e38"
+      }
+    ],
+    "title": "Bao Ji Qiangshou: T de Richang",
+    "title_english": null,
+    "title_japanese": "\u66b4\u57fa\u67aa\u624b\u4e4bt\u7684\u65e5\u5e38",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Game",
+    "episodes": 6,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2016-05-19T00:00:00+00:00",
+      "to": "2016-06-23T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 19,
+          "month": 5,
+          "year": 2016
+        },
+        "to": {
+          "day": 23,
+          "month": 6,
+          "year": 2016
+        }
+      },
+      "string": "May 19, 2016 to Jun 23, 2016"
+    },
+    "duration": "2 min per ep",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 15300,
+    "popularity": 26164,
+    "members": 122,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 20,
+        "type": "anime",
+        "name": "Parody",
+        "url": "https://myanimelist.net/anime/genre/20/Parody"
+      }
+    ],
+    "demographics": []
+  },
+  {
+    "mal_id": 47248,
+    "url": "https://myanimelist.net/anime/47248/Nengli_Youxian_Gongsi",
+    "images": {
+      "jpg": {
+        "image_url": "https://myanimelist.net/images/anime/1496/127204.jpg",
+        "small_image_url": "https://myanimelist.net/images/anime/1496/127204t.jpg",
+        "large_image_url": "https://myanimelist.net/images/anime/1496/127204l.jpg"
+      },
+      "webp": {
+        "image_url": "https://myanimelist.net/images/anime/1496/127204.webp",
+        "small_image_url": "https://myanimelist.net/images/anime/1496/127204t.webp",
+        "large_image_url": "https://myanimelist.net/images/anime/1496/127204l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Nengli Youxian Gongsi"
+      },
+      {
+        "type": "Japanese",
+        "title": "\u80fd\u529b\u6709\u9650\u516c\u53f8"
+      }
+    ],
+    "title": "Nengli Youxian Gongsi",
+    "title_english": null,
+    "title_japanese": "\u80fd\u529b\u6709\u9650\u516c\u53f8",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Original",
+    "episodes": 12,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2016-12-28T00:00:00+00:00",
+      "to": "2017-03-15T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 28,
+          "month": 12,
+          "year": 2016
+        },
+        "to": {
+          "day": 15,
+          "month": 3,
+          "year": 2017
+        }
+      },
+      "string": "Dec 28, 2016 to Mar 15, 2017"
+    },
+    "duration": "10 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": null,
+    "scored_by": null,
+    "rank": 19037,
+    "popularity": 26202,
+    "members": 122,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": []
+  },
+  {
+    "mal_id": 47249,
+    "url": "https://myanimelist.net/anime/47249/Qiang_Ling_Jihua",
+    "images": {
+      "jpg": {
+        "image_url": "https://myanimelist.net/images/anime/1318/127043.jpg",
+        "small_image_url": "https://myanimelist.net/images/anime/1318/127043t.jpg",
+        "large_image_url": "https://myanimelist.net/images/anime/1318/127043l.jpg"
+      },
+      "webp": {
+        "image_url": "https://myanimelist.net/images/anime/1318/127043.webp",
+        "small_image_url": "https://myanimelist.net/images/anime/1318/127043t.webp",
+        "large_image_url": "https://myanimelist.net/images/anime/1318/127043l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Qiang Ling Jihua"
+      },
+      {
+        "type": "Japanese",
+        "title": "\u67aa\u7075\u8ba1\u5212"
+      }
+    ],
+    "title": "Qiang Ling Jihua",
+    "title_english": null,
+    "title_japanese": "\u67aa\u7075\u8ba1\u5212",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Original",
+    "episodes": 12,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2016-12-20T00:00:00+00:00",
+      "to": "2017-03-14T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 20,
+          "month": 12,
+          "year": 2016
+        },
+        "to": {
+          "day": 14,
+          "month": 3,
+          "year": 2017
+        }
+      },
+      "string": "Dec 20, 2016 to Mar 14, 2017"
+    },
+    "duration": "12 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": null,
+    "scored_by": null,
+    "rank": 19631,
+    "popularity": 25138,
+    "members": 143,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 1,
+        "type": "anime",
+        "name": "Action",
+        "url": "https://myanimelist.net/anime/genre/1/Action"
+      },
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": []
+  },
+  {
+    "mal_id": 47250,
+    "url": "https://myanimelist.net/anime/47250/Jouran__The_Princess_of_Snow_and_Blood",
+    "images": {
+      "jpg": {
+        "image_url": "https://myanimelist.net/images/anime/1289/115673.jpg",
+        "small_image_url": "https://myanimelist.net/images/anime/1289/115673t.jpg",
+        "large_image_url": "https://myanimelist.net/images/anime/1289/115673l.jpg"
+      },
+      "webp": {
+        "image_url": "https://myanimelist.net/images/anime/1289/115673.webp",
+        "small_image_url": "https://myanimelist.net/images/anime/1289/115673t.webp",
+        "large_image_url": "https://myanimelist.net/images/anime/1289/115673l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": "https://www.youtube-nocookie.com/embed/KdTZ-XQhFdE?enablejsapi=1&wmode=opaque&autoplay=1",
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Jouran: The Princess of Snow and Blood"
+      },
+      {
+        "type": "Japanese",
+        "title": "\u64fe\u4e71 THE PRINCESS OF SNOW AND BLOOD"
+      },
+      {
+        "type": "English",
+        "title": "Joran The Princess of Snow and Blood"
+      }
+    ],
+    "title": "Jouran: The Princess of Snow and Blood",
+    "title_english": "Joran The Princess of Snow and Blood",
+    "title_japanese": "\u64fe\u4e71 THE PRINCESS OF SNOW AND BLOOD",
+    "title_synonyms": [],
+    "type": "TV",
+    "source": "Original",
+    "episodes": 12,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2021-04-07T00:00:00+00:00",
+      "to": "2021-06-23T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 7,
+          "month": 4,
+          "year": 2021
+        },
+        "to": {
+          "day": 23,
+          "month": 6,
+          "year": 2021
+        }
+      },
+      "string": "Apr 7, 2021 to Jun 23, 2021"
+    },
+    "duration": "22 min per ep",
+    "rating": "R - 17+ (violence & profanity)",
+    "score": 6.12,
+    "scored_by": 31273,
+    "rank": 10142,
+    "popularity": 2362,
+    "members": 101690,
+    "favorites": 393,
+    "synopsis": "In 1931, the Tokugawa Shogunate remains in power, marking the 64th year of the Meiji era. Holding a monopoly over the newly discovered \"Dragon Vein,\" the government is leading Japan toward an advanced Edo period. During this time, an elite force of executioners called \"Nue\" is tasked with defending the Shogunate from a rebel institution known as the \"Kuchinawa.\"\n\nAs the owner of the Tsuyukasa Bookshop, Sawa Yukimura runs the store's day-to-day business inconspicuously. But behind the scenes, she seeks vengeance against the man who slaughtered her tribe and family. With a special ability to transform granted by her blue blood, Sawa joins Nue after being promised information regarding the target of her revenge: Janome, the leader of the Kuchinawa.\n\n[Written by MAL Rewrite]",
+    "background": "",
+    "season": "spring",
+    "year": 2021,
+    "broadcast": {
+      "day": "Wednesdays",
+      "time": "01:29",
+      "timezone": "Asia/Tokyo",
+      "string": "Wednesdays at 01:29 (JST)"
+    },
+    "producers": [
+      {
+        "mal_id": 53,
+        "type": "anime",
+        "name": "Dentsu",
+        "url": "https://myanimelist.net/anime/producer/53/Dentsu"
+      },
+      {
+        "mal_id": 103,
+        "type": "anime",
+        "name": "Tatsunoko Production",
+        "url": "https://myanimelist.net/anime/producer/103/Tatsunoko_Production"
+      },
+      {
+        "mal_id": 775,
+        "type": "anime",
+        "name": "Bushiroad",
+        "url": "https://myanimelist.net/anime/producer/775/Bushiroad"
+      },
+      {
+        "mal_id": 1003,
+        "type": "anime",
+        "name": "Nippon Television Network",
+        "url": "https://myanimelist.net/anime/producer/1003/Nippon_Television_Network"
+      },
+      {
+        "mal_id": 1634,
+        "type": "anime",
+        "name": "Bushiroad Music",
+        "url": "https://myanimelist.net/anime/producer/1634/Bushiroad_Music"
+      },
+      {
+        "mal_id": 1858,
+        "type": "anime",
+        "name": "Sonilude",
+        "url": "https://myanimelist.net/anime/producer/1858/Sonilude"
+      },
+      {
+        "mal_id": 2227,
+        "type": "anime",
+        "name": "HJ Holdings",
+        "url": "https://myanimelist.net/anime/producer/2227/HJ_Holdings"
+      },
+      {
+        "mal_id": 2228,
+        "type": "anime",
+        "name": "Bushiroad Move",
+        "url": "https://myanimelist.net/anime/producer/2228/Bushiroad_Move"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 1984,
+        "type": "anime",
+        "name": "Bakken Record",
+        "url": "https://myanimelist.net/anime/producer/1984/Bakken_Record"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 1,
+        "type": "anime",
+        "name": "Action",
+        "url": "https://myanimelist.net/anime/genre/1/Action"
+      },
+      {
+        "mal_id": 37,
+        "type": "anime",
+        "name": "Supernatural",
+        "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 13,
+        "type": "anime",
+        "name": "Historical",
+        "url": "https://myanimelist.net/anime/genre/13/Historical"
+      }
+    ],
+    "demographics": []
+  },
+  {
+    "mal_id": 47251,
+    "url": "https://myanimelist.net/anime/47251/Maoshan_Xiao_Daoshi",
+    "images": {
+      "jpg": {
+        "image_url": "https://myanimelist.net/images/anime/1748/129799.jpg",
+        "small_image_url": "https://myanimelist.net/images/anime/1748/129799t.jpg",
+        "large_image_url": "https://myanimelist.net/images/anime/1748/129799l.jpg"
+      },
+      "webp": {
+        "image_url": "https://myanimelist.net/images/anime/1748/129799.webp",
+        "small_image_url": "https://myanimelist.net/images/anime/1748/129799t.webp",
+        "large_image_url": "https://myanimelist.net/images/anime/1748/129799l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Maoshan Xiao Daoshi"
+      },
+      {
+        "type": "Japanese",
+        "title": "\u8305\u5c71\u5c0f\u9053\u58eb"
+      }
+    ],
+    "title": "Maoshan Xiao Daoshi",
+    "title_english": null,
+    "title_japanese": "\u8305\u5c71\u5c0f\u9053\u58eb",
+    "title_synonyms": [],
+    "type": "TV",
+    "source": "Original",
+    "episodes": 52,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2016-01-01T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 1,
+          "year": 2016
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "2016 to ?"
+    },
+    "duration": "9 min per ep",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": 18460,
+    "popularity": 29156,
+    "members": 84,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Unknown"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ]
+  },
+  {
+    "mal_id": 47254,
+    "url": "https://myanimelist.net/anime/47254/Boku_wa_Boku_wo_Suki_ni_Naru",
+    "images": {
+      "jpg": {
+        "image_url": "https://myanimelist.net/images/anime/1526/113830.jpg",
+        "small_image_url": "https://myanimelist.net/images/anime/1526/113830t.jpg",
+        "large_image_url": "https://myanimelist.net/images/anime/1526/113830l.jpg"
+      },
+      "webp": {
+        "image_url": "https://myanimelist.net/images/anime/1526/113830.webp",
+        "small_image_url": "https://myanimelist.net/images/anime/1526/113830t.webp",
+        "large_image_url": "https://myanimelist.net/images/anime/1526/113830l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Boku wa Boku wo Suki ni Naru"
+      },
+      {
+        "type": "Japanese",
+        "title": "\u50d5\u306f\u50d5\u3092\u597d\u304d\u306b\u306a\u308b"
+      }
+    ],
+    "title": "Boku wa Boku wo Suki ni Naru",
+    "title_english": null,
+    "title_japanese": "\u50d5\u306f\u50d5\u3092\u597d\u304d\u306b\u306a\u308b",
+    "title_synonyms": [],
+    "type": "Music",
+    "source": "Original",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2021-01-29T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 29,
+          "month": 1,
+          "year": 2021
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Jan 29, 2021"
+    },
+    "duration": "4 min",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 6.03,
+    "scored_by": 197,
+    "rank": null,
+    "popularity": 19817,
+    "members": 394,
+    "favorites": 1,
+    "synopsis": "Anime version of the music video for the song Boku wa Boku wo Suki ni Naru by Nogizaka46.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [
+      {
+        "mal_id": 757,
+        "type": "anime",
+        "name": "Sony Music Entertainment",
+        "url": "https://myanimelist.net/anime/producer/757/Sony_Music_Entertainment"
+      }
+    ],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 1854,
+        "type": "anime",
+        "name": "monofilmo",
+        "url": "https://myanimelist.net/anime/producer/1854/monofilmo"
+      }
+    ],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 19,
+        "type": "anime",
+        "name": "Music",
+        "url": "https://myanimelist.net/anime/genre/19/Music"
+      }
+    ],
+    "demographics": []
+  },
+  {
+    "mal_id": 47257,
+    "url": "https://myanimelist.net/anime/47257/Shinigami_Bocchan_to_Kuro_Maid",
+    "images": {
+      "jpg": {
+        "image_url": "https://myanimelist.net/images/anime/1471/115593.jpg",
+        "small_image_url": "https://myanimelist.net/images/anime/1471/115593t.jpg",
+        "large_image_url": "https://myanimelist.net/images/anime/1471/115593l.jpg"
+      },
+      "webp": {
+        "image_url": "https://myanimelist.net/images/anime/1471/115593.webp",
+        "small_image_url": "https://myanimelist.net/images/anime/1471/115593t.webp",
+        "large_image_url": "https://myanimelist.net/images/anime/1471/115593l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": "https://www.youtube-nocookie.com/embed/fovl9ZRPX40?enablejsapi=1&wmode=opaque&autoplay=1",
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Shinigami Bocchan to Kuro Maid"
+      },
+      {
+        "type": "Synonym",
+        "title": "Young Master the Grim Reaper and the Black Maid"
+      },
+      {
+        "type": "Japanese",
+        "title": "\u6b7b\u795e\u574a\u3061\u3083\u3093\u3068\u9ed2\u30e1\u30a4\u30c9"
+      },
+      {
+        "type": "English",
+        "title": "The Duke of Death and His Maid"
+      }
+    ],
+    "title": "Shinigami Bocchan to Kuro Maid",
+    "title_english": "The Duke of Death and His Maid",
+    "title_japanese": "\u6b7b\u795e\u574a\u3061\u3083\u3093\u3068\u9ed2\u30e1\u30a4\u30c9",
+    "title_synonyms": [
+      "Young Master the Grim Reaper and the Black Maid"
+    ],
+    "type": "TV",
+    "source": "Web manga",
+    "episodes": 12,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2021-07-04T00:00:00+00:00",
+      "to": "2021-09-19T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 4,
+          "month": 7,
+          "year": 2021
+        },
+        "to": {
+          "day": 19,
+          "month": 9,
+          "year": 2021
+        }
+      },
+      "string": "Jul 4, 2021 to Sep 19, 2021"
+    },
+    "duration": "24 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": 7.58,
+    "scored_by": 108654,
+    "rank": 1825,
+    "popularity": 992,
+    "members": 281846,
+    "favorites": 1780,
+    "synopsis": "As the elegant, frail flower petals wither away into lifeless ashes, the young duke is tragically reminded of the despicable power forced upon him\u2014the ability to kill anything he touches. Scorned by his family, he is sent away to live in near isolation. Fortunately, he is not entirely alone, as the manor's staff\u2014his dutiful butler Rob and the flirtatious maid Alice\u2014keep him company and make his life less miserable.\n\nAs the duke's romantic feelings for Alice grow, so does his continued frustration for the limits set by his unfortunate ability. Therefore, he resolves to break the curse cast upon him all those years ago, not only for his sake, but Alice's as well\u2014for he is painfully aware of how difficult it is to avoid the touch of a loved one.\n\n[Written by MAL Rewrite]",
+    "background": "",
+    "season": "summer",
+    "year": 2021,
+    "broadcast": {
+      "day": "Sundays",
+      "time": "22:00",
+      "timezone": "Asia/Tokyo",
+      "string": "Sundays at 22:00 (JST)"
+    },
+    "producers": [
+      {
+        "mal_id": 62,
+        "type": "anime",
+        "name": "Shogakukan-Shueisha Productions",
+        "url": "https://myanimelist.net/anime/producer/62/Shogakukan-Shueisha_Productions"
+      },
+      {
+        "mal_id": 474,
+        "type": "anime",
+        "name": "Shogakukan Music & Digital Entertainment",
+        "url": "https://myanimelist.net/anime/producer/474/Shogakukan_Music___Digital_Entertainment"
+      },
+      {
+        "mal_id": 1113,
+        "type": "anime",
+        "name": "NBCUniversal Entertainment Japan",
+        "url": "https://myanimelist.net/anime/producer/1113/NBCUniversal_Entertainment_Japan"
+      },
+      {
+        "mal_id": 1416,
+        "type": "anime",
+        "name": "BS11",
+        "url": "https://myanimelist.net/anime/producer/1416/BS11"
+      },
+      {
+        "mal_id": 1430,
+        "type": "anime",
+        "name": "Shogakukan",
+        "url": "https://myanimelist.net/anime/producer/1430/Shogakukan"
+      },
+      {
+        "mal_id": 1492,
+        "type": "anime",
+        "name": "Yomiuri TV Enterprise",
+        "url": "https://myanimelist.net/anime/producer/1492/Yomiuri_TV_Enterprise"
+      },
+      {
+        "mal_id": 1992,
+        "type": "anime",
+        "name": "Bandai Spirits",
+        "url": "https://myanimelist.net/anime/producer/1992/Bandai_Spirits"
+      }
+    ],
+    "licensors": [
+      {
+        "mal_id": 102,
+        "type": "anime",
+        "name": "Funimation",
+        "url": "https://myanimelist.net/anime/producer/102/Funimation"
+      }
+    ],
+    "studios": [
+      {
+        "mal_id": 7,
+        "type": "anime",
+        "name": "J.C.Staff",
+        "url": "https://myanimelist.net/anime/producer/7/JCStaff"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      },
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      },
+      {
+        "mal_id": 22,
+        "type": "anime",
+        "name": "Romance",
+        "url": "https://myanimelist.net/anime/genre/22/Romance"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 74,
+        "type": "anime",
+        "name": "Love Status Quo",
+        "url": "https://myanimelist.net/anime/genre/74/Love_Status_Quo"
+      }
+    ],
+    "demographics": []
+  },
+  {
+    "mal_id": 47258,
+    "url": "https://myanimelist.net/anime/47258/Mengxiang_Zhaohuan_Wang",
+    "images": {
+      "jpg": {
+        "image_url": "https://myanimelist.net/images/anime/1689/129801.jpg",
+        "small_image_url": "https://myanimelist.net/images/anime/1689/129801t.jpg",
+        "large_image_url": "https://myanimelist.net/images/anime/1689/129801l.jpg"
+      },
+      "webp": {
+        "image_url": "https://myanimelist.net/images/anime/1689/129801.webp",
+        "small_image_url": "https://myanimelist.net/images/anime/1689/129801t.webp",
+        "large_image_url": "https://myanimelist.net/images/anime/1689/129801l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Mengxiang Zhaohuan Wang"
+      },
+      {
+        "type": "Japanese",
+        "title": "\u68a6\u60f3\u53ec\u5524\u738b"
+      }
+    ],
+    "title": "Mengxiang Zhaohuan Wang",
+    "title_english": null,
+    "title_japanese": "\u68a6\u60f3\u53ec\u5524\u738b",
+    "title_synonyms": [],
+    "type": "TV",
+    "source": "Original",
+    "episodes": 40,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2016-10-12T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 12,
+          "month": 10,
+          "year": 2016
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Oct 12, 2016 to ?"
+    },
+    "duration": "13 min per ep",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": 18594,
+    "popularity": 28409,
+    "members": 92,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Unknown"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 2,
+        "type": "anime",
+        "name": "Adventure",
+        "url": "https://myanimelist.net/anime/genre/2/Adventure"
+      },
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ]
+  },
+  {
+    "mal_id": 47259,
+    "url": "https://myanimelist.net/anime/47259/Mengxiang_Zhaohuan_Wang_2nd_Season",
+    "images": {
+      "jpg": {
+        "image_url": "https://myanimelist.net/images/anime/1031/129802.jpg",
+        "small_image_url": "https://myanimelist.net/images/anime/1031/129802t.jpg",
+        "large_image_url": "https://myanimelist.net/images/anime/1031/129802l.jpg"
+      },
+      "webp": {
+        "image_url": "https://myanimelist.net/images/anime/1031/129802.webp",
+        "small_image_url": "https://myanimelist.net/images/anime/1031/129802t.webp",
+        "large_image_url": "https://myanimelist.net/images/anime/1031/129802l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Mengxiang Zhaohuan Wang 2nd Season"
+      },
+      {
+        "type": "Japanese",
+        "title": "\u68a6\u60f3\u53ec\u5524\u738b\u7b2c\u4e8c\u5b63"
+      }
+    ],
+    "title": "Mengxiang Zhaohuan Wang 2nd Season",
+    "title_english": null,
+    "title_japanese": "\u68a6\u60f3\u53ec\u5524\u738b\u7b2c\u4e8c\u5b63",
+    "title_synonyms": [],
+    "type": "TV",
+    "source": "Original",
+    "episodes": 52,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2018-01-01T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 1,
+          "year": 2018
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "2018 to ?"
+    },
+    "duration": "13 min per ep",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": 18593,
+    "popularity": 28301,
+    "members": 93,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Unknown"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 2,
+        "type": "anime",
+        "name": "Adventure",
+        "url": "https://myanimelist.net/anime/genre/2/Adventure"
+      },
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ]
+  },
+  {
+    "mal_id": 47264,
+    "url": "https://myanimelist.net/anime/47264/Wo_de_Maoxian_Shijie",
+    "images": {
+      "jpg": {
+        "image_url": "https://myanimelist.net/images/anime/1777/130747.jpg",
+        "small_image_url": "https://myanimelist.net/images/anime/1777/130747t.jpg",
+        "large_image_url": "https://myanimelist.net/images/anime/1777/130747l.jpg"
+      },
+      "webp": {
+        "image_url": "https://myanimelist.net/images/anime/1777/130747.webp",
+        "small_image_url": "https://myanimelist.net/images/anime/1777/130747t.webp",
+        "large_image_url": "https://myanimelist.net/images/anime/1777/130747l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Wo de Maoxian Shijie"
+      },
+      {
+        "type": "Japanese",
+        "title": "\u6211\u7684\u5192\u9669\u4e16\u754c"
+      },
+      {
+        "type": "English",
+        "title": "My Mad Xian World"
+      }
+    ],
+    "title": "Wo de Maoxian Shijie",
+    "title_english": "My Mad Xian World",
+    "title_japanese": "\u6211\u7684\u5192\u9669\u4e16\u754c",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Original",
+    "episodes": 17,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2016-07-01T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 7,
+          "year": 2016
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Jul 1, 2016 to ?"
+    },
+    "duration": "6 min per ep",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 21355,
+    "popularity": 26029,
+    "members": 125,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 2,
+        "type": "anime",
+        "name": "Adventure",
+        "url": "https://myanimelist.net/anime/genre/2/Adventure"
+      },
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": []
+  },
+  {
+    "mal_id": 47265,
+    "url": "https://myanimelist.net/anime/47265/Wo_de_Maoxian_Shijie_2nd_Season",
+    "images": {
+      "jpg": {
+        "image_url": "https://myanimelist.net/images/anime/1663/130748.jpg",
+        "small_image_url": "https://myanimelist.net/images/anime/1663/130748t.jpg",
+        "large_image_url": "https://myanimelist.net/images/anime/1663/130748l.jpg"
+      },
+      "webp": {
+        "image_url": "https://myanimelist.net/images/anime/1663/130748.webp",
+        "small_image_url": "https://myanimelist.net/images/anime/1663/130748t.webp",
+        "large_image_url": "https://myanimelist.net/images/anime/1663/130748l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Wo de Maoxian Shijie 2nd Season"
+      },
+      {
+        "type": "Japanese",
+        "title": "\u6211\u7684\u5192\u9669\u4e16\u754c \u7b2c\u4e8c\u5b63"
+      }
+    ],
+    "title": "Wo de Maoxian Shijie 2nd Season",
+    "title_english": null,
+    "title_japanese": "\u6211\u7684\u5192\u9669\u4e16\u754c \u7b2c\u4e8c\u5b63",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Original",
+    "episodes": 16,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2017-07-07T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 7,
+          "month": 7,
+          "year": 2017
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Jul 7, 2017 to ?"
+    },
+    "duration": "11 min per ep",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 21356,
+    "popularity": 26880,
+    "members": 112,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 2,
+        "type": "anime",
+        "name": "Adventure",
+        "url": "https://myanimelist.net/anime/genre/2/Adventure"
+      },
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": []
+  },
+  {
+    "mal_id": 47267,
+    "url": "https://myanimelist.net/anime/47267/Cao_Jingling",
+    "images": {
+      "jpg": {
+        "image_url": "https://myanimelist.net/images/anime/1323/115574.jpg",
+        "small_image_url": "https://myanimelist.net/images/anime/1323/115574t.jpg",
+        "large_image_url": "https://myanimelist.net/images/anime/1323/115574l.jpg"
+      },
+      "webp": {
+        "image_url": "https://myanimelist.net/images/anime/1323/115574.webp",
+        "small_image_url": "https://myanimelist.net/images/anime/1323/115574t.webp",
+        "large_image_url": "https://myanimelist.net/images/anime/1323/115574l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Cao Jingling"
+      },
+      {
+        "type": "Japanese",
+        "title": "\u8349\u7cbe\u7075"
+      },
+      {
+        "type": "English",
+        "title": "Grass Elf"
+      }
+    ],
+    "title": "Cao Jingling",
+    "title_english": "Grass Elf",
+    "title_japanese": "\u8349\u7cbe\u7075",
+    "title_synonyms": [],
+    "type": "TV",
+    "source": "Original",
+    "episodes": 52,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2016-01-01T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 1,
+          "year": 2016
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "2016 to ?"
+    },
+    "duration": "13 min per ep",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": 15616,
+    "popularity": 26228,
+    "members": 121,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Unknown"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ]
+  },
+  {
+    "mal_id": 47270,
+    "url": "https://myanimelist.net/anime/47270/He_N\u00fcer_De_Richang_2nd_Season_Special",
+    "images": {
+      "jpg": {
+        "image_url": "https://myanimelist.net/images/anime/1553/117936.jpg",
+        "small_image_url": "https://myanimelist.net/images/anime/1553/117936t.jpg",
+        "large_image_url": "https://myanimelist.net/images/anime/1553/117936l.jpg"
+      },
+      "webp": {
+        "image_url": "https://myanimelist.net/images/anime/1553/117936.webp",
+        "small_image_url": "https://myanimelist.net/images/anime/1553/117936t.webp",
+        "large_image_url": "https://myanimelist.net/images/anime/1553/117936l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "He N\u00fc'er De Richang 2nd Season Special"
+      },
+      {
+        "type": "Japanese",
+        "title": "\u548c\u5973\u513f\u7684\u65e5\u5e38 \u7b2c\u4e8c\u5b63 \u7279\u8f91"
+      }
+    ],
+    "title": "He N\u00fc'er De Richang 2nd Season Special",
+    "title_english": null,
+    "title_japanese": "\u548c\u5973\u513f\u7684\u65e5\u5e38 \u7b2c\u4e8c\u5b63 \u7279\u8f91",
+    "title_synonyms": [],
+    "type": "Special",
+    "source": "Manga",
+    "episodes": 1,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2018-01-01T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 1,
+          "year": 2018
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "2018"
+    },
+    "duration": "2 min",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 16942,
+    "popularity": 25408,
+    "members": 137,
+    "favorites": 0,
+    "synopsis": "Christmas special.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2304,
+        "type": "anime",
+        "name": "TrioPen Studio",
+        "url": "https://myanimelist.net/anime/producer/2304/TrioPen_Studio"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 36,
+        "type": "anime",
+        "name": "Slice of Life",
+        "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ]
+  },
+  {
+    "mal_id": 47272,
+    "url": "https://myanimelist.net/anime/47272/Qiao_Shou_Luban",
+    "images": {
+      "jpg": {
+        "image_url": "https://myanimelist.net/images/anime/1946/129803.jpg",
+        "small_image_url": "https://myanimelist.net/images/anime/1946/129803t.jpg",
+        "large_image_url": "https://myanimelist.net/images/anime/1946/129803l.jpg"
+      },
+      "webp": {
+        "image_url": "https://myanimelist.net/images/anime/1946/129803.webp",
+        "small_image_url": "https://myanimelist.net/images/anime/1946/129803t.webp",
+        "large_image_url": "https://myanimelist.net/images/anime/1946/129803l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Qiao Shou Luban"
+      },
+      {
+        "type": "Japanese",
+        "title": "\u5de7\u624b\u9c81\u73ed"
+      }
+    ],
+    "title": "Qiao Shou Luban",
+    "title_english": null,
+    "title_japanese": "\u5de7\u624b\u9c81\u73ed",
+    "title_synonyms": [],
+    "type": "TV",
+    "source": "Original",
+    "episodes": 208,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2016-03-17T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 17,
+          "month": 3,
+          "year": 2016
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Mar 17, 2016 to ?"
+    },
+    "duration": "7 min per ep",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": 19639,
+    "popularity": 28920,
+    "members": 87,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Unknown"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ]
+  },
+  {
+    "mal_id": 47274,
+    "url": "https://myanimelist.net/anime/47274/Mai_Kuai_Sanguo",
+    "images": {
+      "jpg": {
+        "image_url": "https://myanimelist.net/images/anime/1756/129206.jpg",
+        "small_image_url": "https://myanimelist.net/images/anime/1756/129206t.jpg",
+        "large_image_url": "https://myanimelist.net/images/anime/1756/129206l.jpg"
+      },
+      "webp": {
+        "image_url": "https://myanimelist.net/images/anime/1756/129206.webp",
+        "small_image_url": "https://myanimelist.net/images/anime/1756/129206t.webp",
+        "large_image_url": "https://myanimelist.net/images/anime/1756/129206l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Mai Kuai Sanguo"
+      },
+      {
+        "type": "Japanese",
+        "title": "\u9ea6\u5757\u4e09\u56fd"
+      }
+    ],
+    "title": "Mai Kuai Sanguo",
+    "title_english": null,
+    "title_japanese": "\u9ea6\u5757\u4e09\u56fd",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Novel",
+    "episodes": 13,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2016-04-07T00:00:00+00:00",
+      "to": "2016-08-05T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 7,
+          "month": 4,
+          "year": 2016
+        },
+        "to": {
+          "day": 5,
+          "month": 8,
+          "year": 2016
+        }
+      },
+      "string": "Apr 7, 2016 to Aug 5, 2016"
+    },
+    "duration": "6 min per ep",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 18380,
+    "popularity": 26252,
+    "members": 121,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      },
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 13,
+        "type": "anime",
+        "name": "Historical",
+        "url": "https://myanimelist.net/anime/genre/13/Historical"
+      }
+    ],
+    "demographics": []
+  },
+  {
+    "mal_id": 47275,
+    "url": "https://myanimelist.net/anime/47275/Sanguo_Yanyi_2nd_Season__Zhulu_Zhongyuan",
+    "images": {
+      "jpg": {
+        "image_url": "https://myanimelist.net/images/anime/1141/126921.jpg",
+        "small_image_url": "https://myanimelist.net/images/anime/1141/126921t.jpg",
+        "large_image_url": "https://myanimelist.net/images/anime/1141/126921l.jpg"
+      },
+      "webp": {
+        "image_url": "https://myanimelist.net/images/anime/1141/126921.webp",
+        "small_image_url": "https://myanimelist.net/images/anime/1141/126921t.webp",
+        "large_image_url": "https://myanimelist.net/images/anime/1141/126921l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Sanguo Yanyi 2nd Season: Zhulu Zhongyuan"
+      },
+      {
+        "type": "Japanese",
+        "title": "\u4e09\u56fd\u6f14\u4e49 \u7b2c\u4e8c\u5b63 \u9010\u9e7f\u4e2d\u539f"
+      },
+      {
+        "type": "English",
+        "title": "Romance of Three Kingdoms 2nd Season"
+      }
+    ],
+    "title": "Sanguo Yanyi 2nd Season: Zhulu Zhongyuan",
+    "title_english": "Romance of Three Kingdoms 2nd Season",
+    "title_japanese": "\u4e09\u56fd\u6f14\u4e49 \u7b2c\u4e8c\u5b63 \u9010\u9e7f\u4e2d\u539f",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Web novel",
+    "episodes": 20,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2019-04-23T00:00:00+00:00",
+      "to": "2019-08-27T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 23,
+          "month": 4,
+          "year": 2019
+        },
+        "to": {
+          "day": 27,
+          "month": 8,
+          "year": 2019
+        }
+      },
+      "string": "Apr 23, 2019 to Aug 27, 2019"
+    },
+    "duration": "22 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": null,
+    "scored_by": null,
+    "rank": 19973,
+    "popularity": 23673,
+    "members": 186,
+    "favorites": 1,
+    "synopsis": "Second season of Sanguo Yanyi.",
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [
+      {
+        "mal_id": 2569,
+        "type": "anime",
+        "name": "Yinhe Changxing Culture",
+        "url": "https://myanimelist.net/anime/producer/2569/Yinhe_Changxing_Culture"
+      }
+    ],
+    "genres": [
+      {
+        "mal_id": 1,
+        "type": "anime",
+        "name": "Action",
+        "url": "https://myanimelist.net/anime/genre/1/Action"
+      },
+      {
+        "mal_id": 8,
+        "type": "anime",
+        "name": "Drama",
+        "url": "https://myanimelist.net/anime/genre/8/Drama"
+      },
+      {
+        "mal_id": 37,
+        "type": "anime",
+        "name": "Supernatural",
+        "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 13,
+        "type": "anime",
+        "name": "Historical",
+        "url": "https://myanimelist.net/anime/genre/13/Historical"
+      },
+      {
+        "mal_id": 17,
+        "type": "anime",
+        "name": "Martial Arts",
+        "url": "https://myanimelist.net/anime/genre/17/Martial_Arts"
+      }
+    ],
+    "demographics": []
+  },
+  {
+    "mal_id": 47276,
+    "url": "https://myanimelist.net/anime/47276/Guaishou_Chufang",
+    "images": {
+      "jpg": {
+        "image_url": "https://myanimelist.net/images/anime/1775/129207.jpg",
+        "small_image_url": "https://myanimelist.net/images/anime/1775/129207t.jpg",
+        "large_image_url": "https://myanimelist.net/images/anime/1775/129207l.jpg"
+      },
+      "webp": {
+        "image_url": "https://myanimelist.net/images/anime/1775/129207.webp",
+        "small_image_url": "https://myanimelist.net/images/anime/1775/129207t.webp",
+        "large_image_url": "https://myanimelist.net/images/anime/1775/129207l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Guaishou Chufang"
+      },
+      {
+        "type": "Japanese",
+        "title": "\u602a\u517d\u53a8\u623f"
+      }
+    ],
+    "title": "Guaishou Chufang",
+    "title_english": null,
+    "title_japanese": "\u602a\u517d\u53a8\u623f",
+    "title_synonyms": [],
+    "type": "TV",
+    "source": "Original",
+    "episodes": 26,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2016-01-01T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 1,
+          "year": 2016
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "2016 to ?"
+    },
+    "duration": "3 min per ep",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": 16742,
+    "popularity": 28279,
+    "members": 93,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Unknown"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      },
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ]
+  },
+  {
+    "mal_id": 47277,
+    "url": "https://myanimelist.net/anime/47277/Huang_Ba_Tianxia",
+    "images": {
+      "jpg": {
+        "image_url": "https://myanimelist.net/images/anime/1602/129208.jpg",
+        "small_image_url": "https://myanimelist.net/images/anime/1602/129208t.jpg",
+        "large_image_url": "https://myanimelist.net/images/anime/1602/129208l.jpg"
+      },
+      "webp": {
+        "image_url": "https://myanimelist.net/images/anime/1602/129208.webp",
+        "small_image_url": "https://myanimelist.net/images/anime/1602/129208t.webp",
+        "large_image_url": "https://myanimelist.net/images/anime/1602/129208l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Huang Ba Tianxia"
+      },
+      {
+        "type": "Japanese",
+        "title": "\u7687\u9738\u5929\u4e0b"
+      }
+    ],
+    "title": "Huang Ba Tianxia",
+    "title_english": null,
+    "title_japanese": "\u7687\u9738\u5929\u4e0b",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Original",
+    "episodes": 22,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2016-01-01T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 1,
+          "year": 2016
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "2016 to ?"
+    },
+    "duration": "3 min per ep",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 17181,
+    "popularity": 28691,
+    "members": 89,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 20,
+        "type": "anime",
+        "name": "Parody",
+        "url": "https://myanimelist.net/anime/genre/20/Parody"
+      }
+    ],
+    "demographics": []
+  },
+  {
+    "mal_id": 47278,
+    "url": "https://myanimelist.net/anime/47278/Huanle_Beijixing",
+    "images": {
+      "jpg": {
+        "image_url": "https://myanimelist.net/images/anime/1426/129209.jpg",
+        "small_image_url": "https://myanimelist.net/images/anime/1426/129209t.jpg",
+        "large_image_url": "https://myanimelist.net/images/anime/1426/129209l.jpg"
+      },
+      "webp": {
+        "image_url": "https://myanimelist.net/images/anime/1426/129209.webp",
+        "small_image_url": "https://myanimelist.net/images/anime/1426/129209t.webp",
+        "large_image_url": "https://myanimelist.net/images/anime/1426/129209l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Huanle Beijixing"
+      },
+      {
+        "type": "Japanese",
+        "title": "\u6b22\u4e50\u5317\u6781\u661f"
+      },
+      {
+        "type": "English",
+        "title": "Happy Polaris"
+      }
+    ],
+    "title": "Huanle Beijixing",
+    "title_english": "Happy Polaris",
+    "title_japanese": "\u6b22\u4e50\u5317\u6781\u661f",
+    "title_synonyms": [],
+    "type": "TV",
+    "source": "Original",
+    "episodes": 26,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2016-08-20T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 20,
+          "month": 8,
+          "year": 2016
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "Aug 20, 2016 to ?"
+    },
+    "duration": "13 min per ep",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": 17199,
+    "popularity": 28878,
+    "members": 87,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": "Unknown"
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ]
+  },
+  {
+    "mal_id": 47279,
+    "url": "https://myanimelist.net/anime/47279/Duanzi_Gou_Riji",
+    "images": {
+      "jpg": {
+        "image_url": "https://myanimelist.net/images/anime/1588/127265.jpg",
+        "small_image_url": "https://myanimelist.net/images/anime/1588/127265t.jpg",
+        "large_image_url": "https://myanimelist.net/images/anime/1588/127265l.jpg"
+      },
+      "webp": {
+        "image_url": "https://myanimelist.net/images/anime/1588/127265.webp",
+        "small_image_url": "https://myanimelist.net/images/anime/1588/127265t.webp",
+        "large_image_url": "https://myanimelist.net/images/anime/1588/127265l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Duanzi Gou Riji"
+      },
+      {
+        "type": "Japanese",
+        "title": "\u6bb5\u5b50\u72d7\u65e5\u8bb0"
+      }
+    ],
+    "title": "Duanzi Gou Riji",
+    "title_english": null,
+    "title_japanese": "\u6bb5\u5b50\u72d7\u65e5\u8bb0",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Original",
+    "episodes": 71,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2016-01-28T00:00:00+00:00",
+      "to": "2016-09-01T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 28,
+          "month": 1,
+          "year": 2016
+        },
+        "to": {
+          "day": 1,
+          "month": 9,
+          "year": 2016
+        }
+      },
+      "string": "Jan 28, 2016 to Sep 1, 2016"
+    },
+    "duration": "30 sec per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "score": null,
+    "scored_by": null,
+    "rank": 16296,
+    "popularity": 25876,
+    "members": 127,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 4,
+        "type": "anime",
+        "name": "Comedy",
+        "url": "https://myanimelist.net/anime/genre/4/Comedy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [],
+    "demographics": []
+  },
+  {
+    "mal_id": 47280,
+    "url": "https://myanimelist.net/anime/47280/Zheng_Yi_Men",
+    "images": {
+      "jpg": {
+        "image_url": "https://myanimelist.net/images/anime/1825/129210.jpg",
+        "small_image_url": "https://myanimelist.net/images/anime/1825/129210t.jpg",
+        "large_image_url": "https://myanimelist.net/images/anime/1825/129210l.jpg"
+      },
+      "webp": {
+        "image_url": "https://myanimelist.net/images/anime/1825/129210.webp",
+        "small_image_url": "https://myanimelist.net/images/anime/1825/129210t.webp",
+        "large_image_url": "https://myanimelist.net/images/anime/1825/129210l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Zheng Yi Men"
+      },
+      {
+        "type": "Japanese",
+        "title": "\u90d1\u4e49\u95e8"
+      }
+    ],
+    "title": "Zheng Yi Men",
+    "title_english": null,
+    "title_japanese": "\u90d1\u4e49\u95e8",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Book",
+    "episodes": 12,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2016-03-07T00:00:00+00:00",
+      "to": "2016-03-18T00:00:00+00:00",
+      "prop": {
+        "from": {
+          "day": 7,
+          "month": 3,
+          "year": 2016
+        },
+        "to": {
+          "day": 18,
+          "month": 3,
+          "year": 2016
+        }
+      },
+      "string": "Mar 7, 2016 to Mar 18, 2016"
+    },
+    "duration": "12 min per ep",
+    "rating": "G - All Ages",
+    "score": null,
+    "scored_by": null,
+    "rank": 22345,
+    "popularity": 26619,
+    "members": 116,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 13,
+        "type": "anime",
+        "name": "Historical",
+        "url": "https://myanimelist.net/anime/genre/13/Historical"
+      }
+    ],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ]
+  },
+  {
+    "mal_id": 47281,
+    "url": "https://myanimelist.net/anime/47281/Xifan_Yuyan",
+    "images": {
+      "jpg": {
+        "image_url": "https://myanimelist.net/images/anime/1912/129211.jpg",
+        "small_image_url": "https://myanimelist.net/images/anime/1912/129211t.jpg",
+        "large_image_url": "https://myanimelist.net/images/anime/1912/129211l.jpg"
+      },
+      "webp": {
+        "image_url": "https://myanimelist.net/images/anime/1912/129211.webp",
+        "small_image_url": "https://myanimelist.net/images/anime/1912/129211t.webp",
+        "large_image_url": "https://myanimelist.net/images/anime/1912/129211l.webp"
+      }
+    },
+    "trailer": {
+      "youtube_id": null,
+      "url": null,
+      "embed_url": null,
+      "images": {
+        "image_url": null,
+        "small_image_url": null,
+        "medium_image_url": null,
+        "large_image_url": null,
+        "maximum_image_url": null
+      }
+    },
+    "approved": true,
+    "titles": [
+      {
+        "type": "Default",
+        "title": "Xifan Yuyan"
+      },
+      {
+        "type": "Japanese",
+        "title": "\u7a00\u996d\u5bd3\u8a00"
+      }
+    ],
+    "title": "Xifan Yuyan",
+    "title_english": null,
+    "title_japanese": "\u7a00\u996d\u5bd3\u8a00",
+    "title_synonyms": [],
+    "type": "ONA",
+    "source": "Other",
+    "episodes": 25,
+    "status": "Finished Airing",
+    "airing": false,
+    "aired": {
+      "from": "2016-01-01T00:00:00+00:00",
+      "to": null,
+      "prop": {
+        "from": {
+          "day": 1,
+          "month": 1,
+          "year": 2016
+        },
+        "to": {
+          "day": null,
+          "month": null,
+          "year": null
+        }
+      },
+      "string": "2016 to ?"
+    },
+    "duration": "2 min per ep",
+    "rating": "PG - Children",
+    "score": null,
+    "scored_by": null,
+    "rank": 21781,
+    "popularity": 28430,
+    "members": 92,
+    "favorites": 0,
+    "synopsis": null,
+    "background": "",
+    "season": null,
+    "year": null,
+    "broadcast": {
+      "day": null,
+      "time": null,
+      "timezone": null,
+      "string": null
+    },
+    "producers": [],
+    "licensors": [],
+    "studios": [],
+    "genres": [
+      {
+        "mal_id": 10,
+        "type": "anime",
+        "name": "Fantasy",
+        "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+      }
+    ],
+    "explicit_genres": [],
+    "themes": [
+      {
+        "mal_id": 51,
+        "type": "anime",
+        "name": "Anthropomorphic",
+        "url": "https://myanimelist.net/anime/genre/51/Anthropomorphic"
+      }
+    ],
+    "demographics": [
+      {
+        "mal_id": 15,
+        "type": "anime",
+        "name": "Kids",
+        "url": "https://myanimelist.net/anime/genre/15/Kids"
+      }
+    ]
+  }
+]
