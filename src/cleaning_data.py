@@ -7,7 +7,7 @@ MASTER_SCHEMA = [
     "episodes", "duration", "favorites", "type", "status",
     "genres", "source", "season", "studios", "themes", "rank", "rating"
 ]
-# Get the base directory of your project
+# Get the base directory 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 # Point to the FOLDERS, not the specific files
 jikan_folder = os.path.join(BASE_DIR, "data/raw/jikan/")
@@ -24,7 +24,7 @@ def clean_anilist(input_df):
         "Studio Deen", "Manglobe", "Geno Studio", "Lay-duce","Asahi Production","Passione", "Yokohama Animation Lab"
     ]
 
-    # 2. Normalize your reference list
+    # 2. Normalize reference list
     normalized_target_list = [s.lower().strip() for s in studios_list]
 
     # 3. Initial selection and numeric standardization
@@ -47,7 +47,7 @@ def clean_anilist(input_df):
     # 4. Normalize the incoming DATA
     working_df = working_df.withColumn("normalized_data_array",F.expr("transform(raw_studios, x -> trim(lower(x)))"))
 
-    # 5. Intersect the normalized data with normalized list
+    # 5. Intersect the normalized data with the normalized list
     working_df = working_df.withColumn("matched_studios",F.array_intersect(
         F.col("normalized_data_array"),
         F.array([F.lit(x) for x in normalized_target_list])))
@@ -159,7 +159,6 @@ def integrate_datasets(j_df, a_df, k_df):
     k = k_df.select(*(F.col(c).alias(f"k_{c}") for c in k_df.columns))
 
     # 2. Perform Full Outer Joins on mal_id
-    # We use coalesce in the join condition to handle cases where Jikan might be missing an ID
     combined = j.join(a, j.j_mal_id == a.a_mal_id, "full_outer").join(k, F.coalesce(F.col("j_mal_id"), F.col("a_mal_id")) == k.k_mal_id, "full_outer")
 
     # 3. Build the Master Record using COALESCE
