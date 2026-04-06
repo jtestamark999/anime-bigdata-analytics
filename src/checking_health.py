@@ -7,7 +7,7 @@ def check_data_health(df, dataset_name):
 
     health_checks = []
     for c, dtype in df.dtypes:
-        # 1. Handle Jikan/AniList specific nested 'studios' or 'producers'
+        # Handle Jikan/AniList specific nested 'studios' or 'producers'
         #check if the struct itself is null or the internal array is empty
         if c in ["studios", "producers", "genres"]:
             if "struct" in dtype:
