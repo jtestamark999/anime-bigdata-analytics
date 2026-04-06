@@ -39,7 +39,7 @@ Architecture diagrams are available in the `/docs` directory.
 ## Setup and Installation
 ### 1. Installation & Setup
 
-First, ensure you have **Apache Spark** installed and your environment variables (like `SPArk_HOME`) properly configured. Then, install the necessary Python dependencies using the following command:
+First, ensure you have **Apache Spark** installed and your environment variables (like `SPARK_HOME`) properly configured. Then, install the necessary Python dependencies using the following command:
 
 Bash
 
@@ -50,7 +50,7 @@ pip install -r requirements.txt
 
 #### Required Directory Structure
 
-For the pipeline to run successfully, ensure your raw data files are placed exactly as shown below:
+For the pipeline to run successfully, ensure your raw data files are placed exactly as shown below, or let the program make the correct files, but make sure the Kaggle CSV is in the raw folder:
 
 -   `data/raw/jikan/` (Folder for Jikan JSON files)
     
