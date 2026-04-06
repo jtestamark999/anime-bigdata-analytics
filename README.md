@@ -1,7 +1,7 @@
 ## Anime Big Data Analytics System
 
 ## Overview
-This project designs and implements a Big Data pipeline for analyzing large-scale anime viewing data and metadata. The system collects, processes, stores, and analyzes anime-related datasets using distributed data processing concepts.
+This project designs and implements a Big Data pipeline to analyze large-scale anime-viewing data and metadata. The system collects, processes, stores, and analyzes anime-related datasets using distributed data processing concepts.
 
 ---
 
@@ -211,13 +211,7 @@ Implemented a structured raw directory for JSON and Kaggle CSV ingestion.
 `main.py` successfully displays uniform metadata across disparate sources.
 
 **Planned**|**Data Cleaning**
-Implementation of fuzzy matching and complex deduplication logic (For M3).
-
-**Planned**|**Advanced Storage**
-Transitioning processed data into optimized Parquet/Data Lake formats (For M3).
-
-**Planned**|**Analytics**
-Developing complex Spark SQL queries for popularity and industry trends (For M3).
+Implementation of making the code more readable (For M4).
 
 ## 1. Implementation Summary
 
@@ -225,7 +219,7 @@ The primary objective of this project is to aggregate and harmonize anime data f
 
 -   **Jikan:** Representing MyAnimeList data, I scraped 800 pages of JSON data, totaling 20,000 entries.
     
--   **AniList:** Utilized GraphQL to precisely query 20,000 entries, sorted by popularity to ensure a diverse range of data.
+-   **AniList:** Utilized GraphQL to precisely query 20,000 entries, sorted by popularity, to ensure a diverse range of data.
     
 -   **Kaggle:** Provided a baseline of 24,905 entries (updated to 2023) to act as a historical anchor.
     
@@ -258,7 +252,7 @@ The data moves through a standard ETL (Extract, Transform, Load) pipeline:
 
 ## 3. Transformation Decisions
 
-A major architectural decision was to discontinue the "merge file" strategy for raw JSON data. I realized that merging raw data before cleaning was superfluous and a significant expenditure of time.
+A major architectural decision was to discontinue the "merge file" strategy for raw JSON data. I realized that merging raw data before cleaning was unnecessary and a significant time sink.
 
 Additionally, I made the strategic decision to **discontinue MongoDB** for this stage. After attempting to resolve compatibility issues between Spark and MongoDB, I determined that, for the current requirements, Spark’s native processing and Parquet storage offered a more resilient and less stressful solution for the project’s needs.
 
@@ -273,7 +267,7 @@ Additionally, I made the strategic decision to **discontinue MongoDB** for this 
 
 ## 5. Performance Observations
 
-The most time-consuming phase is the acquisition of raw data. This requires **judicious delays (rate-limiting)** to prevent HTTP 404 or 429 errors from the APIs. While the Spark transformations are currently highly efficient, I will continue to monitor for bottlenecks as we move into more complex M3 analytics.
+The most time-consuming phase is the acquisition of raw data. This requires **judicious delays (rate-limiting)** to prevent HTTP 404 or 429 errors from the APIs. While the Spark transformations are currently highly efficient, I will continue to monitor for bottlenecks as we move into more complex M4 analytics.
 
 ## 6. Remaining Work
 
