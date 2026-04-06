@@ -41,7 +41,7 @@ def run_pipeline():
     spark = SparkSession.builder.appName("AnimeDataCleaning") \
         .config("spark.jars.packages", "org.mongodb.spark:mongo-spark-connector_2.12:10.1.1").getOrCreate()
 
-    # Define your paths
+    # Define  paths
     base_path = "/Users/tempest/Documents/Code/CS 4265 Anime Project/data/raw"
     paths = {
         "AniList": f"{base_path}/anilist/*.json",
