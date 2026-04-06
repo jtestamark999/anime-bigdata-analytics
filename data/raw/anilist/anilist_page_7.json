@@ -1,0 +1,2238 @@
+[
+  {
+    "id": 21595,
+    "idMal": 32542,
+    "source": "MANGA",
+    "title": {
+      "romaji": "Sakamoto desu ga?",
+      "english": "Haven't You Heard? I'm Sakamoto",
+      "native": "\u5742\u672c\u3067\u3059\u304c?"
+    },
+    "format": "TV",
+    "status": "FINISHED",
+    "episodes": 12,
+    "duration": 24,
+    "season": "SPRING",
+    "seasonYear": 2016,
+    "averageScore": 73,
+    "popularity": 179247,
+    "favourites": 2661,
+    "genres": [
+      "Comedy",
+      "Slice of Life"
+    ],
+    "studios": {
+      "nodes": [
+        {
+          "name": "Studio DEEN"
+        },
+        {
+          "name": "Kadokawa Shoten"
+        },
+        {
+          "name": "Sentai Filmworks"
+        },
+        {
+          "name": "Hanabee Entertainment"
+        }
+      ]
+    }
+  },
+  {
+    "id": 4654,
+    "idMal": 4654,
+    "source": "LIGHT_NOVEL",
+    "title": {
+      "romaji": "Toaru Majutsu no Index",
+      "english": "A Certain Magical Index",
+      "native": "\u3068\u3042\u308b\u9b54\u8853\u306e\u7981\u66f8\u76ee\u9332"
+    },
+    "format": "TV",
+    "status": "FINISHED",
+    "episodes": 24,
+    "duration": 23,
+    "season": "FALL",
+    "seasonYear": 2008,
+    "averageScore": 70,
+    "popularity": 178802,
+    "favourites": 2428,
+    "genres": [
+      "Action",
+      "Sci-Fi",
+      "Supernatural"
+    ],
+    "studios": {
+      "nodes": [
+        {
+          "name": "J.C.STAFF"
+        },
+        {
+          "name": "NBCUniversal Entertainment Japan"
+        },
+        {
+          "name": "Square Enix"
+        },
+        {
+          "name": "Funimation"
+        },
+        {
+          "name": "AT-X"
+        },
+        {
+          "name": "ASCII Media Works"
+        },
+        {
+          "name": "Kadokawa Contents Gate"
+        }
+      ]
+    }
+  },
+  {
+    "id": 129898,
+    "idMal": 47790,
+    "source": "LIGHT_NOVEL",
+    "title": {
+      "romaji": "Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei suru",
+      "english": "The World's Finest Assassin Gets Reincarnated in Another World as an Aristocrat",
+      "native": "\u4e16\u754c\u6700\u9ad8\u306e\u6697\u6bba\u8005\u3001\u7570\u4e16\u754c\u8cb4\u65cf\u306b\u8ee2\u751f\u3059\u308b"
+    },
+    "format": "TV",
+    "status": "FINISHED",
+    "episodes": 12,
+    "duration": 24,
+    "season": "FALL",
+    "seasonYear": 2021,
+    "averageScore": 72,
+    "popularity": 178502,
+    "favourites": 4102,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Fantasy",
+      "Mystery",
+      "Romance"
+    ],
+    "studios": {
+      "nodes": [
+        {
+          "name": "SILVER LINK."
+        },
+        {
+          "name": "Studio Palette"
+        },
+        {
+          "name": "Glovision"
+        },
+        {
+          "name": "Lantis"
+        },
+        {
+          "name": "Bandai Namco Arts"
+        },
+        {
+          "name": "KADOKAWA"
+        },
+        {
+          "name": "AT-X"
+        },
+        {
+          "name": "TV Aichi"
+        },
+        {
+          "name": "Movic"
+        },
+        {
+          "name": "Crunchyroll"
+        },
+        {
+          "name": "Kadokawa Media House"
+        }
+      ]
+    }
+  },
+  {
+    "id": 142770,
+    "idMal": 50594,
+    "source": "ORIGINAL",
+    "title": {
+      "romaji": "Suzume no Tojimari",
+      "english": "Suzume",
+      "native": "\u3059\u305a\u3081\u306e\u6238\u7de0\u307e\u308a"
+    },
+    "format": "MOVIE",
+    "status": "FINISHED",
+    "episodes": 1,
+    "duration": 121,
+    "season": "FALL",
+    "seasonYear": 2022,
+    "averageScore": 81,
+    "popularity": 178252,
+    "favourites": 6034,
+    "genres": [
+      "Adventure",
+      "Fantasy",
+      "Mystery",
+      "Supernatural"
+    ],
+    "studios": {
+      "nodes": [
+        {
+          "name": "CoMix Wave"
+        },
+        {
+          "name": "STORY Inc."
+        },
+        {
+          "name": "Toho"
+        }
+      ]
+    }
+  },
+  {
+    "id": 11597,
+    "idMal": 11597,
+    "source": "LIGHT_NOVEL",
+    "title": {
+      "romaji": "Nisemonogatari",
+      "english": "Nisemonogatari",
+      "native": "\u507d\u7269\u8a9e"
+    },
+    "format": "TV",
+    "status": "FINISHED",
+    "episodes": 11,
+    "duration": 24,
+    "season": "WINTER",
+    "seasonYear": 2012,
+    "averageScore": 79,
+    "popularity": 177555,
+    "favourites": 2983,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Ecchi",
+      "Mystery",
+      "Psychological",
+      "Supernatural"
+    ],
+    "studios": {
+      "nodes": [
+        {
+          "name": "Aniplex"
+        },
+        {
+          "name": "Shaft"
+        },
+        {
+          "name": "Kodansha"
+        },
+        {
+          "name": "Rakuonsha"
+        },
+        {
+          "name": "Aniplex of America"
+        },
+        {
+          "name": "Hanabee Entertainment"
+        }
+      ]
+    }
+  },
+  {
+    "id": 20966,
+    "idMal": 28677,
+    "source": "MANGA",
+    "title": {
+      "romaji": "Yamada-kun to 7-nin no Majo",
+      "english": "Yamada and the Seven Witches",
+      "native": "\u5c71\u7530\u304f\u3093\u30687\u4eba\u306e\u9b54\u5973"
+    },
+    "format": "TV",
+    "status": "FINISHED",
+    "episodes": 12,
+    "duration": 24,
+    "season": "SPRING",
+    "seasonYear": 2015,
+    "averageScore": 73,
+    "popularity": 176792,
+    "favourites": 3046,
+    "genres": [
+      "Comedy",
+      "Mystery",
+      "Romance",
+      "Supernatural"
+    ],
+    "studios": {
+      "nodes": [
+        {
+          "name": "LIDENFILMS"
+        },
+        {
+          "name": "Dentsu"
+        },
+        {
+          "name": "Frontier Works"
+        },
+        {
+          "name": "Kodansha"
+        },
+        {
+          "name": "Rakuonsha"
+        },
+        {
+          "name": "Crunchyroll"
+        },
+        {
+          "name": "A-Sketch"
+        },
+        {
+          "name": "Memory-Tech"
+        },
+        {
+          "name": "Amuse"
+        },
+        {
+          "name": "Ultra Super Pictures"
+        },
+        {
+          "name": "Lawson Entertainment"
+        },
+        {
+          "name": "Daiichi Kosho Company"
+        },
+        {
+          "name": "Funimation"
+        },
+        {
+          "name": "Animatic"
+        }
+      ]
+    }
+  },
+  {
+    "id": 21685,
+    "idMal": 32901,
+    "source": "LIGHT_NOVEL",
+    "title": {
+      "romaji": "Eromanga Sensei",
+      "english": "Eromanga Sensei",
+      "native": "\u30a8\u30ed\u30de\u30f3\u30ac\u5148\u751f"
+    },
+    "format": "TV",
+    "status": "FINISHED",
+    "episodes": 12,
+    "duration": 24,
+    "season": "SPRING",
+    "seasonYear": 2017,
+    "averageScore": 60,
+    "popularity": 176628,
+    "favourites": 2242,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Ecchi",
+      "Romance",
+      "Slice of Life"
+    ],
+    "studios": {
+      "nodes": [
+        {
+          "name": "A-1 Pictures"
+        },
+        {
+          "name": "Aniplex"
+        },
+        {
+          "name": "KADOKAWA"
+        },
+        {
+          "name": "ASCII Media Works"
+        },
+        {
+          "name": "Kinoshita Group"
+        },
+        {
+          "name": "Movic"
+        },
+        {
+          "name": "BS11"
+        }
+      ]
+    }
+  },
+  {
+    "id": 154965,
+    "idMal": 53126,
+    "source": "MANGA",
+    "title": {
+      "romaji": "Yamada-kun to Lv999 no Koi wo Suru",
+      "english": "My Love Story with Yamada-kun at Lv999",
+      "native": "\u5c71\u7530\u304f\u3093\u3068Lv999\u306e\u604b\u3092\u3059\u308b"
+    },
+    "format": "TV",
+    "status": "FINISHED",
+    "episodes": 13,
+    "duration": 24,
+    "season": "SPRING",
+    "seasonYear": 2023,
+    "averageScore": 78,
+    "popularity": 176313,
+    "favourites": 5777,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "studios": {
+      "nodes": [
+        {
+          "name": "Aniplex"
+        },
+        {
+          "name": "MADHOUSE"
+        },
+        {
+          "name": "Comic Smart"
+        },
+        {
+          "name": "TOKYO MX"
+        },
+        {
+          "name": "BS11"
+        },
+        {
+          "name": "Movic"
+        },
+        {
+          "name": "KADOKAWA"
+        },
+        {
+          "name": "EGG FIRM"
+        }
+      ]
+    }
+  },
+  {
+    "id": 356,
+    "idMal": 356,
+    "source": "VISUAL_NOVEL",
+    "title": {
+      "romaji": "Fate/stay night",
+      "english": "Fate/stay night",
+      "native": "Fate/stay night"
+    },
+    "format": "TV",
+    "status": "FINISHED",
+    "episodes": 24,
+    "duration": 24,
+    "season": "WINTER",
+    "seasonYear": 2006,
+    "averageScore": 68,
+    "popularity": 176194,
+    "favourites": 2546,
+    "genres": [
+      "Action",
+      "Fantasy",
+      "Romance",
+      "Supernatural"
+    ],
+    "studios": {
+      "nodes": [
+        {
+          "name": "NBCUniversal Entertainment Japan"
+        },
+        {
+          "name": "Studio DEEN"
+        },
+        {
+          "name": "Frontier Works"
+        },
+        {
+          "name": "TBS"
+        },
+        {
+          "name": "Sentai Filmworks"
+        },
+        {
+          "name": "Notes"
+        },
+        {
+          "name": "CREi"
+        }
+      ]
+    }
+  },
+  {
+    "id": 18507,
+    "idMal": 18507,
+    "source": "ORIGINAL",
+    "title": {
+      "romaji": "Free!",
+      "english": "Free! -Iwatobi Swim Club-",
+      "native": "Free!"
+    },
+    "format": "TV",
+    "status": "FINISHED",
+    "episodes": 12,
+    "duration": 24,
+    "season": "SUMMER",
+    "seasonYear": 2013,
+    "averageScore": 72,
+    "popularity": 175667,
+    "favourites": 3703,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Slice of Life",
+      "Sports"
+    ],
+    "studios": {
+      "nodes": [
+        {
+          "name": "Kyoto Animation"
+        },
+        {
+          "name": "Lantis"
+        },
+        {
+          "name": "Animation Do"
+        },
+        {
+          "name": "Iwatobi High School Swimming Club"
+        }
+      ]
+    }
+  },
+  {
+    "id": 98034,
+    "idMal": 34612,
+    "source": "MANGA",
+    "title": {
+      "romaji": "Saiki Kusuo no \u03a8-nan 2",
+      "english": "The Disastrous Life of Saiki K. Season 2",
+      "native": "\u6589\u6728\u6960\u96c4\u306e\u03a8\u96e3 2"
+    },
+    "format": "TV",
+    "status": "FINISHED",
+    "episodes": 24,
+    "duration": 24,
+    "season": "WINTER",
+    "seasonYear": 2018,
+    "averageScore": 84,
+    "popularity": 175657,
+    "favourites": 4372,
+    "genres": [
+      "Comedy",
+      "Slice of Life",
+      "Supernatural"
+    ],
+    "studios": {
+      "nodes": [
+        {
+          "name": "J.C.STAFF"
+        },
+        {
+          "name": "EGG FIRM"
+        }
+      ]
+    }
+  },
+  {
+    "id": 114963,
+    "idMal": 41168,
+    "source": "ORIGINAL",
+    "title": {
+      "romaji": "Nakitai Watashi wa Neko wo Kaburu",
+      "english": "A Whisker Away",
+      "native": "\u6ce3\u304d\u305f\u3044\u79c1\u306f\u732b\u3092\u304b\u3076\u308b"
+    },
+    "format": "MOVIE",
+    "status": "FINISHED",
+    "episodes": 1,
+    "duration": 104,
+    "season": "SPRING",
+    "seasonYear": 2020,
+    "averageScore": 73,
+    "popularity": 175636,
+    "favourites": 3513,
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Romance"
+    ],
+    "studios": {
+      "nodes": [
+        {
+          "name": "Studio Colorido"
+        },
+        {
+          "name": "Tohokushinsha Film Corporation"
+        },
+        {
+          "name": "BS Fuji"
+        },
+        {
+          "name": "KDDI"
+        },
+        {
+          "name": "KADOKAWA"
+        },
+        {
+          "name": "Twin Engine"
+        },
+        {
+          "name": "Dentsu Meitetsu Communications"
+        },
+        {
+          "name": "Fuji Creative Corporation"
+        },
+        {
+          "name": "Fuji TV"
+        },
+        {
+          "name": "Toho"
+        },
+        {
+          "name": "Universal Music Japan"
+        }
+      ]
+    }
+  },
+  {
+    "id": 111762,
+    "idMal": 40417,
+    "source": "MANGA",
+    "title": {
+      "romaji": "Fruits Basket: 2nd Season",
+      "english": "Fruits Basket Season 2",
+      "native": "\u30d5\u30eb\u30fc\u30c4\u30d0\u30b9\u30b1\u30c3\u30c8 2nd Season"
+    },
+    "format": "TV",
+    "status": "FINISHED",
+    "episodes": 25,
+    "duration": 24,
+    "season": "SPRING",
+    "seasonYear": 2020,
+    "averageScore": 85,
+    "popularity": 175249,
+    "favourites": 6235,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Psychological",
+      "Romance",
+      "Slice of Life",
+      "Supernatural"
+    ],
+    "studios": {
+      "nodes": [
+        {
+          "name": "TMS Entertainment"
+        },
+        {
+          "name": "Funimation"
+        }
+      ]
+    }
+  },
+  {
+    "id": 114232,
+    "idMal": 40938,
+    "source": "LIGHT_NOVEL",
+    "title": {
+      "romaji": "Hige wo Soru. Soshite Joshikousei wo Hirou.",
+      "english": "Higehiro: After Being Rejected, I Shaved and Took in a High School Runaway",
+      "native": "\u3072\u3052\u3092\u5243\u308b\u3002\u305d\u3057\u3066\u5973\u5b50\u9ad8\u751f\u3092\u62fe\u3046\u3002"
+    },
+    "format": "TV",
+    "status": "FINISHED",
+    "episodes": 13,
+    "duration": 24,
+    "season": "SPRING",
+    "seasonYear": 2021,
+    "averageScore": 70,
+    "popularity": 175060,
+    "favourites": 3953,
+    "genres": [
+      "Drama",
+      "Romance",
+      "Slice of Life"
+    ],
+    "studios": {
+      "nodes": [
+        {
+          "name": "project No.9"
+        },
+        {
+          "name": "Dream Shift"
+        },
+        {
+          "name": "Pony Canyon"
+        },
+        {
+          "name": "Magic Capsule"
+        }
+      ]
+    }
+  },
+  {
+    "id": 20626,
+    "idMal": 22043,
+    "source": "MANGA",
+    "title": {
+      "romaji": "FAIRY TAIL (2014)",
+      "english": "Fairy Tail Series 2",
+      "native": "FAIRY TAIL (2014)"
+    },
+    "format": "TV",
+    "status": "FINISHED",
+    "episodes": 102,
+    "duration": 24,
+    "season": "SPRING",
+    "seasonYear": 2014,
+    "averageScore": 74,
+    "popularity": 174430,
+    "favourites": 4780,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "studios": {
+      "nodes": [
+        {
+          "name": "A-1 Pictures"
+        },
+        {
+          "name": "Bridge"
+        },
+        {
+          "name": "TV Tokyo"
+        }
+      ]
+    }
+  },
+  {
+    "id": 131942,
+    "idMal": 48661,
+    "source": "MANGA",
+    "title": {
+      "romaji": "JoJo no Kimyou na Bouken: Stone Ocean",
+      "english": "JoJo's Bizarre Adventure: STONE OCEAN",
+      "native": "\u30b8\u30e7\u30b8\u30e7\u306e\u5947\u5999\u306a\u5192\u967a \u30b9\u30c8\u30fc\u30f3\u30aa\u30fc\u30b7\u30e3\u30f3"
+    },
+    "format": "ONA",
+    "status": "FINISHED",
+    "episodes": 12,
+    "duration": 24,
+    "season": "FALL",
+    "seasonYear": 2021,
+    "averageScore": 80,
+    "popularity": 174270,
+    "favourites": 5067,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Supernatural"
+    ],
+    "studios": {
+      "nodes": [
+        {
+          "name": "Warner Bros. Japan"
+        },
+        {
+          "name": "David Production"
+        },
+        {
+          "name": "Shueisha"
+        },
+        {
+          "name": "KLOCKWORX"
+        },
+        {
+          "name": "Medicos Entertainment"
+        }
+      ]
+    }
+  },
+  {
+    "id": 2890,
+    "idMal": 2890,
+    "source": "ORIGINAL",
+    "title": {
+      "romaji": "Gake no Ue no Ponyo",
+      "english": "Ponyo",
+      "native": "\u5d16\u306e\u4e0a\u306e\u30dd\u30cb\u30e7"
+    },
+    "format": "MOVIE",
+    "status": "FINISHED",
+    "episodes": 1,
+    "duration": 101,
+    "season": "SUMMER",
+    "seasonYear": 2008,
+    "averageScore": 79,
+    "popularity": 174187,
+    "favourites": 6062,
+    "genres": [
+      "Adventure",
+      "Fantasy"
+    ],
+    "studios": {
+      "nodes": [
+        {
+          "name": "Studio Ghibli"
+        },
+        {
+          "name": "Dentsu"
+        },
+        {
+          "name": "d-rights"
+        },
+        {
+          "name": "Toho"
+        },
+        {
+          "name": "Walt Disney Studios"
+        }
+      ]
+    }
+  },
+  {
+    "id": 131586,
+    "idMal": 48569,
+    "source": "LIGHT_NOVEL",
+    "title": {
+      "romaji": "86: Eighty Six Part 2",
+      "english": "86 EIGHTY-SIX Part 2",
+      "native": "86\uff0d\u30a8\u30a4\u30c6\u30a3\u30b7\u30c3\u30af\u30b9\uff0d \u7b2c2\u30af\u30fc\u30eb"
+    },
+    "format": "TV",
+    "status": "FINISHED",
+    "episodes": 12,
+    "duration": 24,
+    "season": "FALL",
+    "seasonYear": 2021,
+    "averageScore": 87,
+    "popularity": 173772,
+    "favourites": 12185,
+    "genres": [
+      "Action",
+      "Drama",
+      "Mecha",
+      "Sci-Fi"
+    ],
+    "studios": {
+      "nodes": [
+        {
+          "name": "A-1 Pictures"
+        },
+        {
+          "name": "Aniplex"
+        },
+        {
+          "name": "KADOKAWA"
+        },
+        {
+          "name": "BANDAI SPIRITS"
+        }
+      ]
+    }
+  },
+  {
+    "id": 512,
+    "idMal": 512,
+    "source": "OTHER",
+    "title": {
+      "romaji": "Majo no Takkyuubin",
+      "english": "Kiki's Delivery Service",
+      "native": "\u9b54\u5973\u306e\u5b85\u6025\u4fbf"
+    },
+    "format": "MOVIE",
+    "status": "FINISHED",
+    "episodes": 1,
+    "duration": 105,
+    "season": "SUMMER",
+    "seasonYear": 1989,
+    "averageScore": 81,
+    "popularity": 173404,
+    "favourites": 7000,
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Fantasy",
+      "Slice of Life"
+    ],
+    "studios": {
+      "nodes": [
+        {
+          "name": "Studio Ghibli"
+        },
+        {
+          "name": "Studio Hibari"
+        },
+        {
+          "name": "Walt Disney Studios"
+        },
+        {
+          "name": "GKIDS"
+        }
+      ]
+    }
+  },
+  {
+    "id": 97994,
+    "idMal": 34618,
+    "source": "MANGA",
+    "title": {
+      "romaji": "Blend S",
+      "english": "BLEND-S",
+      "native": "\u30d6\u30ec\u30f3\u30c9\u30fbS"
+    },
+    "format": "TV",
+    "status": "FINISHED",
+    "episodes": 12,
+    "duration": 24,
+    "season": "FALL",
+    "seasonYear": 2017,
+    "averageScore": 70,
+    "popularity": 173225,
+    "favourites": 2574,
+    "genres": [
+      "Comedy",
+      "Slice of Life"
+    ],
+    "studios": {
+      "nodes": [
+        {
+          "name": "A-1 Pictures"
+        },
+        {
+          "name": "Kansai TV"
+        },
+        {
+          "name": "Aniplex"
+        },
+        {
+          "name": "Aniplex of America"
+        }
+      ]
+    }
+  },
+  {
+    "id": 171627,
+    "idMal": 57555,
+    "source": "MANGA",
+    "title": {
+      "romaji": "Chainsaw Man: Reze-hen",
+      "english": "Chainsaw Man \u2013 The Movie: Reze Arc",
+      "native": "\u30c1\u30a7\u30f3\u30bd\u30fc\u30de\u30f3 \u30ec\u30bc\u7bc7"
+    },
+    "format": "MOVIE",
+    "status": "FINISHED",
+    "episodes": 1,
+    "duration": 100,
+    "season": "SUMMER",
+    "seasonYear": 2025,
+    "averageScore": 90,
+    "popularity": 172893,
+    "favourites": 13217,
+    "genres": [
+      "Action",
+      "Drama",
+      "Horror",
+      "Romance",
+      "Supernatural"
+    ],
+    "studios": {
+      "nodes": [
+        {
+          "name": "MAPPA"
+        },
+        {
+          "name": "Shueisha"
+        },
+        {
+          "name": "Toho"
+        }
+      ]
+    }
+  },
+  {
+    "id": 18671,
+    "idMal": 18671,
+    "source": "LIGHT_NOVEL",
+    "title": {
+      "romaji": "Chuunibyou demo Koi ga Shitai! Ren",
+      "english": "Love, Chunibyo & Other Delusions - Heart Throb -",
+      "native": "\u4e2d\u4e8c\u75c5\u3067\u3082\u604b\u304c\u3057\u305f\u3044\uff01\u6200"
+    },
+    "format": "TV",
+    "status": "FINISHED",
+    "episodes": 12,
+    "duration": 24,
+    "season": "WINTER",
+    "seasonYear": 2014,
+    "averageScore": 74,
+    "popularity": 171490,
+    "favourites": 2502,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance",
+      "Slice of Life"
+    ],
+    "studios": {
+      "nodes": [
+        {
+          "name": "Kyoto Animation"
+        },
+        {
+          "name": "Lantis"
+        },
+        {
+          "name": "TBS"
+        },
+        {
+          "name": "Pony Canyon"
+        }
+      ]
+    }
+  },
+  {
+    "id": 21701,
+    "idMal": 32949,
+    "source": "MANGA",
+    "title": {
+      "romaji": "Kuzu no Honkai",
+      "english": "Scum's Wish",
+      "native": "\u30af\u30ba\u306e\u672c\u61d0"
+    },
+    "format": "TV",
+    "status": "FINISHED",
+    "episodes": 12,
+    "duration": 23,
+    "season": "WINTER",
+    "seasonYear": 2017,
+    "averageScore": 68,
+    "popularity": 171351,
+    "favourites": 3522,
+    "genres": [
+      "Drama",
+      "Ecchi",
+      "Psychological",
+      "Romance"
+    ],
+    "studios": {
+      "nodes": [
+        {
+          "name": "Lerche"
+        },
+        {
+          "name": "Kansai TV"
+        },
+        {
+          "name": "Sentai Filmworks"
+        }
+      ]
+    }
+  },
+  {
+    "id": 2966,
+    "idMal": 2966,
+    "source": "LIGHT_NOVEL",
+    "title": {
+      "romaji": "Ookami to Koushinryou",
+      "english": "Spice and Wolf",
+      "native": "\u72fc\u3068\u9999\u8f9b\u6599"
+    },
+    "format": "TV",
+    "status": "FINISHED",
+    "episodes": 13,
+    "duration": 24,
+    "season": "WINTER",
+    "seasonYear": 2008,
+    "averageScore": 80,
+    "popularity": 170968,
+    "favourites": 5468,
+    "genres": [
+      "Adventure",
+      "Fantasy",
+      "Romance",
+      "Slice of Life"
+    ],
+    "studios": {
+      "nodes": [
+        {
+          "name": "Imagin"
+        },
+        {
+          "name": "Funimation"
+        },
+        {
+          "name": "Kadokawa Pictures Japan"
+        },
+        {
+          "name": "Victor Entertainment"
+        },
+        {
+          "name": "Pony Canyon"
+        },
+        {
+          "name": "Movic"
+        }
+      ]
+    }
+  },
+  {
+    "id": 16894,
+    "idMal": 16894,
+    "source": "MANGA",
+    "title": {
+      "romaji": "Kuroko no Basket 2nd SEASON",
+      "english": "Kuroko's Basketball 2",
+      "native": "\u9ed2\u5b50\u306e\u30d0\u30b9\u30b1 2nd SEASON"
+    },
+    "format": "TV",
+    "status": "FINISHED",
+    "episodes": 25,
+    "duration": 24,
+    "season": "FALL",
+    "seasonYear": 2013,
+    "averageScore": 80,
+    "popularity": 170718,
+    "favourites": 3155,
+    "genres": [
+      "Comedy",
+      "Sports"
+    ],
+    "studios": {
+      "nodes": [
+        {
+          "name": "Production I.G"
+        },
+        {
+          "name": "Bandai Visual"
+        },
+        {
+          "name": "Lantis"
+        },
+        {
+          "name": "NAS"
+        },
+        {
+          "name": "Mainichi Broadcasting System"
+        }
+      ]
+    }
+  },
+  {
+    "id": 166873,
+    "idMal": 55888,
+    "source": "LIGHT_NOVEL",
+    "title": {
+      "romaji": "Mushoku Tensei II: Isekai Ittara Honki Dasu Part 2",
+      "english": "Mushoku Tensei: Jobless Reincarnation Season 2 Part 2",
+      "native": "\u7121\u8077\u8ee2\u751f\u2161 \uff5e\u7570\u4e16\u754c\u884c\u3063\u305f\u3089\u672c\u6c17\u3060\u3059\uff5e \u7b2c2\u30af\u30fc\u30eb"
+    },
+    "format": "TV",
+    "status": "FINISHED",
+    "episodes": 12,
+    "duration": 24,
+    "season": "SPRING",
+    "seasonYear": 2024,
+    "averageScore": 83,
+    "popularity": 170566,
+    "favourites": 5165,
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Ecchi",
+      "Fantasy"
+    ],
+    "studios": {
+      "nodes": [
+        {
+          "name": "Studio Bind"
+        },
+        {
+          "name": "Hakuhodo DY Music & Pictures"
+        },
+        {
+          "name": "Toho"
+        },
+        {
+          "name": "KADOKAWA"
+        },
+        {
+          "name": "Frontier Works"
+        },
+        {
+          "name": "BS11"
+        },
+        {
+          "name": "GREE Entertainment"
+        },
+        {
+          "name": "EGG FIRM"
+        }
+      ]
+    }
+  },
+  {
+    "id": 777,
+    "idMal": 777,
+    "source": "MANGA",
+    "title": {
+      "romaji": "HELLSING OVA",
+      "english": "Hellsing Ultimate",
+      "native": "HELLSING OVA"
+    },
+    "format": "OVA",
+    "status": "FINISHED",
+    "episodes": 10,
+    "duration": 50,
+    "season": "WINTER",
+    "seasonYear": 2006,
+    "averageScore": 81,
+    "popularity": 170426,
+    "favourites": 7326,
+    "genres": [
+      "Action",
+      "Horror",
+      "Supernatural"
+    ],
+    "studios": {
+      "nodes": [
+        {
+          "name": "MADHOUSE"
+        },
+        {
+          "name": "NBCUniversal Entertainment Japan"
+        },
+        {
+          "name": "Satelight"
+        },
+        {
+          "name": "Funimation"
+        },
+        {
+          "name": "StudioRF Inc."
+        },
+        {
+          "name": "Graphinica"
+        }
+      ]
+    }
+  },
+  {
+    "id": 21058,
+    "idMal": 30123,
+    "source": "MANGA",
+    "title": {
+      "romaji": "Akagami no Shirayuki-hime",
+      "english": "Snow White with the Red Hair",
+      "native": "\u8d64\u9aea\u306e\u767d\u96ea\u59eb"
+    },
+    "format": "TV",
+    "status": "FINISHED",
+    "episodes": 12,
+    "duration": 24,
+    "season": "SUMMER",
+    "seasonYear": 2015,
+    "averageScore": 77,
+    "popularity": 169063,
+    "favourites": 5119,
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Romance"
+    ],
+    "studios": {
+      "nodes": [
+        {
+          "name": "bones"
+        }
+      ]
+    }
+  },
+  {
+    "id": 13125,
+    "idMal": 13125,
+    "source": "OTHER",
+    "title": {
+      "romaji": "Shinsekai yori",
+      "english": "From the New World",
+      "native": "\u65b0\u4e16\u754c\u3088\u308a"
+    },
+    "format": "TV",
+    "status": "FINISHED",
+    "episodes": 25,
+    "duration": 23,
+    "season": "FALL",
+    "seasonYear": 2012,
+    "averageScore": 80,
+    "popularity": 168893,
+    "favourites": 6005,
+    "genres": [
+      "Drama",
+      "Horror",
+      "Mystery",
+      "Psychological",
+      "Sci-Fi",
+      "Supernatural"
+    ],
+    "studios": {
+      "nodes": [
+        {
+          "name": "Aniplex"
+        },
+        {
+          "name": "TV Asahi"
+        },
+        {
+          "name": "A-1 Pictures"
+        },
+        {
+          "name": "Pony Canyon"
+        },
+        {
+          "name": "Sentai Filmworks"
+        }
+      ]
+    }
+  },
+  {
+    "id": 21861,
+    "idMal": 33506,
+    "source": "MANGA",
+    "title": {
+      "romaji": "Ao no Exorcist: Kyoto Fujouou-hen",
+      "english": "Blue Exorcist: Kyoto Saga",
+      "native": "\u9752\u306e\u7953\u9b54\u5e2b \u4eac\u90fd\u4e0d\u6d44\u738b\u7bc7"
+    },
+    "format": "TV",
+    "status": "FINISHED",
+    "episodes": 12,
+    "duration": 24,
+    "season": "WINTER",
+    "seasonYear": 2017,
+    "averageScore": 72,
+    "popularity": 168876,
+    "favourites": 1848,
+    "genres": [
+      "Action",
+      "Fantasy",
+      "Supernatural"
+    ],
+    "studios": {
+      "nodes": [
+        {
+          "name": "A-1 Pictures"
+        },
+        {
+          "name": "Shueisha"
+        },
+        {
+          "name": "Dentsu"
+        },
+        {
+          "name": "Aniplex"
+        },
+        {
+          "name": "Aniplex of America"
+        },
+        {
+          "name": "Movic"
+        }
+      ]
+    }
+  },
+  {
+    "id": 21428,
+    "idMal": 31859,
+    "source": "LIGHT_NOVEL",
+    "title": {
+      "romaji": "Hai to Gensou no Grimgar",
+      "english": "Grimgar of Fantasy and Ash",
+      "native": "\u7070\u3068\u5e7b\u60f3\u306e\u30b0\u30ea\u30e0\u30ac\u30eb"
+    },
+    "format": "TV",
+    "status": "FINISHED",
+    "episodes": 12,
+    "duration": 24,
+    "season": "WINTER",
+    "seasonYear": 2016,
+    "averageScore": 74,
+    "popularity": 168382,
+    "favourites": 4071,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Fantasy"
+    ],
+    "studios": {
+      "nodes": [
+        {
+          "name": "A-1 Pictures"
+        },
+        {
+          "name": "Funimation"
+        },
+        {
+          "name": "Madman Entertainment"
+        }
+      ]
+    }
+  },
+  {
+    "id": 128546,
+    "idMal": 46095,
+    "source": "ORIGINAL",
+    "title": {
+      "romaji": "Vivy: Fluorite Eye\u2019s Song",
+      "english": "Vivy -Fluorite Eye's Song-",
+      "native": "Vivy -Fluorite Eye\u2019s Song-"
+    },
+    "format": "TV",
+    "status": "FINISHED",
+    "episodes": 13,
+    "duration": 23,
+    "season": "SPRING",
+    "seasonYear": 2021,
+    "averageScore": 82,
+    "popularity": 167769,
+    "favourites": 7074,
+    "genres": [
+      "Action",
+      "Drama",
+      "Music",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "studios": {
+      "nodes": [
+        {
+          "name": "WIT STUDIO"
+        },
+        {
+          "name": "Aniplex of America"
+        },
+        {
+          "name": "Aniplex"
+        }
+      ]
+    }
+  },
+  {
+    "id": 105228,
+    "idMal": 38668,
+    "source": "MANGA",
+    "title": {
+      "romaji": "Dorohedoro",
+      "english": "Dorohedoro",
+      "native": "\u30c9\u30ed\u30d8\u30c9\u30ed"
+    },
+    "format": "TV",
+    "status": "FINISHED",
+    "episodes": 12,
+    "duration": 24,
+    "season": "WINTER",
+    "seasonYear": 2020,
+    "averageScore": 79,
+    "popularity": 167765,
+    "favourites": 7241,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Fantasy",
+      "Horror",
+      "Mystery"
+    ],
+    "studios": {
+      "nodes": [
+        {
+          "name": "MAPPA"
+        },
+        {
+          "name": "Netflix"
+        },
+        {
+          "name": "Toho"
+        }
+      ]
+    }
+  },
+  {
+    "id": 934,
+    "idMal": 934,
+    "source": "VISUAL_NOVEL",
+    "title": {
+      "romaji": "Higurashi no Naku Koro ni",
+      "english": "When They Cry",
+      "native": "\u3072\u3050\u3089\u3057\u306e\u306a\u304f\u9803\u306b"
+    },
+    "format": "TV",
+    "status": "FINISHED",
+    "episodes": 26,
+    "duration": 24,
+    "season": "SPRING",
+    "seasonYear": 2006,
+    "averageScore": 76,
+    "popularity": 167254,
+    "favourites": 5384,
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Psychological",
+      "Supernatural",
+      "Thriller"
+    ],
+    "studios": {
+      "nodes": [
+        {
+          "name": "Studio DEEN"
+        },
+        {
+          "name": "Frontier Works"
+        },
+        {
+          "name": "Sotsu"
+        },
+        {
+          "name": "DAX Production"
+        },
+        {
+          "name": "Sentai Filmworks"
+        }
+      ]
+    }
+  },
+  {
+    "id": 20657,
+    "idMal": 23277,
+    "source": "LIGHT_NOVEL",
+    "title": {
+      "romaji": "Saenai Heroine no Sodatekata",
+      "english": "Saekano: How to Raise a Boring Girlfriend",
+      "native": "\u51b4\u3048\u306a\u3044\u5f7c\u5973\u306e\u80b2\u3066\u304b\u305f"
+    },
+    "format": "TV",
+    "status": "FINISHED",
+    "episodes": 13,
+    "duration": 24,
+    "season": "WINTER",
+    "seasonYear": 2015,
+    "averageScore": 73,
+    "popularity": 166792,
+    "favourites": 3028,
+    "genres": [
+      "Comedy",
+      "Romance",
+      "Slice of Life"
+    ],
+    "studios": {
+      "nodes": [
+        {
+          "name": "A-1 Pictures"
+        },
+        {
+          "name": "Kansai TV"
+        },
+        {
+          "name": "KYORAKU"
+        }
+      ]
+    }
+  },
+  {
+    "id": 109963,
+    "idMal": 39940,
+    "source": "MANGA",
+    "title": {
+      "romaji": "Shokugeki no Souma: Shin no Sara",
+      "english": "Food Wars! The Fourth Plate",
+      "native": "\u98df\u621f\u306e\u30bd\u30fc\u30de \u795e\u30ce\u76bf"
+    },
+    "format": "TV",
+    "status": "FINISHED",
+    "episodes": 12,
+    "duration": 24,
+    "season": "FALL",
+    "seasonYear": 2019,
+    "averageScore": 76,
+    "popularity": 166233,
+    "favourites": 2631,
+    "genres": [
+      "Comedy",
+      "Ecchi"
+    ],
+    "studios": {
+      "nodes": [
+        {
+          "name": "J.C.STAFF"
+        }
+      ]
+    }
+  },
+  {
+    "id": 162804,
+    "idMal": 54744,
+    "source": "LIGHT_NOVEL",
+    "title": {
+      "romaji": "Tokidoki Bosotto Russiago de Dereru Tonari no Alya-san",
+      "english": "Alya Sometimes Hides Her Feelings in Russian",
+      "native": "\u6642\u3005\u30dc\u30bd\u30c3\u3068\u30ed\u30b7\u30a2\u8a9e\u3067\u30c7\u30ec\u308b\u96a3\u306e\u30a2\u30fc\u30ea\u30e3\u3055\u3093"
+    },
+    "format": "TV",
+    "status": "FINISHED",
+    "episodes": 12,
+    "duration": 25,
+    "season": "SUMMER",
+    "seasonYear": 2024,
+    "averageScore": 75,
+    "popularity": 165913,
+    "favourites": 5517,
+    "genres": [
+      "Comedy",
+      "Romance",
+      "Slice of Life"
+    ],
+    "studios": {
+      "nodes": [
+        {
+          "name": "KADOKAWA"
+        },
+        {
+          "name": "Doga Kobo"
+        },
+        {
+          "name": "SEGA"
+        },
+        {
+          "name": "Doga Kobo"
+        }
+      ]
+    }
+  },
+  {
+    "id": 113596,
+    "idMal": 40787,
+    "source": "OTHER",
+    "title": {
+      "romaji": "Josee to Tora to Sakanatachi",
+      "english": "Josee, the Tiger and the Fish",
+      "native": "\u30b8\u30e7\u30bc\u3068\u864e\u3068\u9b5a\u305f\u3061"
+    },
+    "format": "MOVIE",
+    "status": "FINISHED",
+    "episodes": 1,
+    "duration": 98,
+    "season": "FALL",
+    "seasonYear": 2020,
+    "averageScore": 82,
+    "popularity": 165740,
+    "favourites": 7015,
+    "genres": [
+      "Drama",
+      "Romance",
+      "Slice of Life"
+    ],
+    "studios": {
+      "nodes": [
+        {
+          "name": "bones"
+        },
+        {
+          "name": "KADOKAWA"
+        },
+        {
+          "name": "JR Higashi Nihon Kikaku"
+        },
+        {
+          "name": "KDDI"
+        },
+        {
+          "name": "Toy's Factory"
+        }
+      ]
+    }
+  },
+  {
+    "id": 2025,
+    "idMal": 2025,
+    "source": "ORIGINAL",
+    "title": {
+      "romaji": "DARKER THAN BLACK: Kuro no Keiyakusha",
+      "english": "Darker than Black",
+      "native": "DARKER THAN BLACK -\u9ed2\u306e\u5951\u7d04\u8005-"
+    },
+    "format": "TV",
+    "status": "FINISHED",
+    "episodes": 25,
+    "duration": 24,
+    "season": "SPRING",
+    "seasonYear": 2007,
+    "averageScore": 77,
+    "popularity": 165721,
+    "favourites": 3833,
+    "genres": [
+      "Action",
+      "Mystery",
+      "Sci-Fi"
+    ],
+    "studios": {
+      "nodes": [
+        {
+          "name": "bones"
+        },
+        {
+          "name": "Aniplex"
+        },
+        {
+          "name": "Square Enix"
+        },
+        {
+          "name": "Movic"
+        },
+        {
+          "name": "Hakuhodo DY Music & Pictures"
+        },
+        {
+          "name": "Myrica Music"
+        },
+        {
+          "name": "Mainichi Broadcasting System"
+        }
+      ]
+    }
+  },
+  {
+    "id": 100112,
+    "idMal": 36407,
+    "source": "LIGHT_NOVEL",
+    "title": {
+      "romaji": "Kenja no Mago",
+      "english": "Wise Man\u2019s Grandchild",
+      "native": "\u8ce2\u8005\u306e\u5b6b"
+    },
+    "format": "TV",
+    "status": "FINISHED",
+    "episodes": 12,
+    "duration": 24,
+    "season": "SPRING",
+    "seasonYear": 2019,
+    "averageScore": 64,
+    "popularity": 165715,
+    "favourites": 3357,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Fantasy",
+      "Romance"
+    ],
+    "studios": {
+      "nodes": [
+        {
+          "name": "SILVER LINK."
+        },
+        {
+          "name": "Funimation"
+        }
+      ]
+    }
+  },
+  {
+    "id": 106479,
+    "idMal": 38790,
+    "source": "LIGHT_NOVEL",
+    "title": {
+      "romaji": "Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu.",
+      "english": "BOFURI: I Don't Want to Get Hurt, so I'll Max Out My Defense.",
+      "native": "\u75db\u3044\u306e\u306f\u5acc\u306a\u306e\u3067\u9632\u5fa1\u529b\u306b\u6975\u632f\u308a\u3057\u305f\u3044\u3068\u601d\u3044\u307e\u3059\u3002"
+    },
+    "format": "TV",
+    "status": "FINISHED",
+    "episodes": 12,
+    "duration": 24,
+    "season": "WINTER",
+    "seasonYear": 2020,
+    "averageScore": 74,
+    "popularity": 165701,
+    "favourites": 4425,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Fantasy",
+      "Slice of Life"
+    ],
+    "studios": {
+      "nodes": [
+        {
+          "name": "SILVER LINK."
+        },
+        {
+          "name": "AT-X"
+        },
+        {
+          "name": "MAGES."
+        },
+        {
+          "name": "ABC Animation"
+        },
+        {
+          "name": "Sammy"
+        },
+        {
+          "name": "Docomo Anime Store"
+        },
+        {
+          "name": "Kadokawa Media House"
+        },
+        {
+          "name": "KADOKAWA"
+        },
+        {
+          "name": "D-techno"
+        }
+      ]
+    }
+  },
+  {
+    "id": 161964,
+    "idMal": 54595,
+    "source": "LIGHT_NOVEL",
+    "title": {
+      "romaji": "Kage no Jitsuryokusha ni Naritakute! 2nd season",
+      "english": "The Eminence in Shadow Season 2",
+      "native": "\u9670\u306e\u5b9f\u529b\u8005\u306b\u306a\u308a\u305f\u304f\u3066\uff01 2nd season"
+    },
+    "format": "TV",
+    "status": "FINISHED",
+    "episodes": 12,
+    "duration": 24,
+    "season": "FALL",
+    "seasonYear": 2023,
+    "averageScore": 82,
+    "popularity": 165447,
+    "favourites": 5871,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Fantasy"
+    ],
+    "studios": {
+      "nodes": [
+        {
+          "name": "KADOKAWA"
+        },
+        {
+          "name": "Nexus"
+        },
+        {
+          "name": "Aiming"
+        },
+        {
+          "name": "newgin"
+        },
+        {
+          "name": "AT-X"
+        },
+        {
+          "name": "BS Nittele"
+        },
+        {
+          "name": "Sentai Filmworks"
+        }
+      ]
+    }
+  },
+  {
+    "id": 2236,
+    "idMal": 2236,
+    "source": "OTHER",
+    "title": {
+      "romaji": "Toki wo Kakeru Shoujo",
+      "english": "The Girl Who Leapt Through Time",
+      "native": "\u6642\u3092\u304b\u3051\u308b\u5c11\u5973"
+    },
+    "format": "MOVIE",
+    "status": "FINISHED",
+    "episodes": 1,
+    "duration": 97,
+    "season": "SUMMER",
+    "seasonYear": 2006,
+    "averageScore": 78,
+    "popularity": 165301,
+    "favourites": 3249,
+    "genres": [
+      "Drama",
+      "Romance",
+      "Sci-Fi"
+    ],
+    "studios": {
+      "nodes": [
+        {
+          "name": "MADHOUSE"
+        },
+        {
+          "name": "Kadokawa Shoten"
+        },
+        {
+          "name": "Bandai"
+        },
+        {
+          "name": "Memory-Tech"
+        },
+        {
+          "name": "Happinet Pictures"
+        },
+        {
+          "name": "Selecta Visi\u00f3n"
+        },
+        {
+          "name": "Funimation"
+        }
+      ]
+    }
+  },
+  {
+    "id": 33,
+    "idMal": 33,
+    "source": "MANGA",
+    "title": {
+      "romaji": "Kenpuu Denki Berserk",
+      "english": "Berserk",
+      "native": "\u5263\u98a8\u4f1d\u5947\u30d9\u30eb\u30bb\u30eb\u30af"
+    },
+    "format": "TV",
+    "status": "FINISHED",
+    "episodes": 25,
+    "duration": 25,
+    "season": "FALL",
+    "seasonYear": 1997,
+    "averageScore": 84,
+    "popularity": 164956,
+    "favourites": 10539,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Fantasy",
+      "Horror",
+      "Supernatural"
+    ],
+    "studios": {
+      "nodes": [
+        {
+          "name": "OLM"
+        },
+        {
+          "name": "VAP"
+        },
+        {
+          "name": "Media Blasters"
+        },
+        {
+          "name": "NYAV Post"
+        },
+        {
+          "name": "Nippon Television Network"
+        },
+        {
+          "name": "Hakusensha"
+        }
+      ]
+    }
+  },
+  {
+    "id": 124194,
+    "idMal": 42938,
+    "source": "MANGA",
+    "title": {
+      "romaji": "Fruits Basket: The Final",
+      "english": "Fruits Basket The Final Season",
+      "native": "\u30d5\u30eb\u30fc\u30c4\u30d0\u30b9\u30b1\u30c3\u30c8The Final"
+    },
+    "format": "TV",
+    "status": "FINISHED",
+    "episodes": 13,
+    "duration": 24,
+    "season": "SPRING",
+    "seasonYear": 2021,
+    "averageScore": 89,
+    "popularity": 164878,
+    "favourites": 11269,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Psychological",
+      "Romance",
+      "Slice of Life",
+      "Supernatural"
+    ],
+    "studios": {
+      "nodes": [
+        {
+          "name": "TMS Entertainment"
+        },
+        {
+          "name": "TMS Music"
+        },
+        {
+          "name": "Funimation"
+        },
+        {
+          "name": "Avex Pictures"
+        }
+      ]
+    }
+  },
+  {
+    "id": 20745,
+    "idMal": 24703,
+    "source": "LIGHT_NOVEL",
+    "title": {
+      "romaji": "High School DxD BorN",
+      "english": null,
+      "native": "\u30cf\u30a4\u30b9\u30af\u30fc\u30ebD\u00d7D BorN"
+    },
+    "format": "TV",
+    "status": "FINISHED",
+    "episodes": 12,
+    "duration": 24,
+    "season": "SPRING",
+    "seasonYear": 2015,
+    "averageScore": 71,
+    "popularity": 164314,
+    "favourites": 2940,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Ecchi",
+      "Fantasy",
+      "Romance"
+    ],
+    "studios": {
+      "nodes": [
+        {
+          "name": "TNK"
+        },
+        {
+          "name": "Lantis"
+        },
+        {
+          "name": "Showgate"
+        },
+        {
+          "name": "AT-X"
+        },
+        {
+          "name": "KADOKAWA"
+        },
+        {
+          "name": "Genco"
+        },
+        {
+          "name": "Movic"
+        },
+        {
+          "name": "Memory-Tech"
+        }
+      ]
+    }
+  },
+  {
+    "id": 97922,
+    "idMal": 34542,
+    "source": "MANGA",
+    "title": {
+      "romaji": "Inuyashiki",
+      "english": "INUYASHIKI LAST HERO",
+      "native": "\u3044\u306c\u3084\u3057\u304d"
+    },
+    "format": "TV",
+    "status": "FINISHED",
+    "episodes": 11,
+    "duration": 23,
+    "season": "FALL",
+    "seasonYear": 2017,
+    "averageScore": 74,
+    "popularity": 164085,
+    "favourites": 2890,
+    "genres": [
+      "Action",
+      "Drama",
+      "Psychological",
+      "Sci-Fi"
+    ],
+    "studios": {
+      "nodes": [
+        {
+          "name": "MAPPA"
+        },
+        {
+          "name": "Fuji TV"
+        },
+        {
+          "name": "Kodansha"
+        },
+        {
+          "name": "DMM pictures"
+        },
+        {
+          "name": "Aniplex"
+        },
+        {
+          "name": "Dentsu"
+        }
+      ]
+    }
+  },
+  {
+    "id": 163270,
+    "idMal": 54900,
+    "source": "MANGA",
+    "title": {
+      "romaji": "WIND BREAKER",
+      "english": "WIND BREAKER",
+      "native": "WIND BREAKER"
+    },
+    "format": "TV",
+    "status": "FINISHED",
+    "episodes": 13,
+    "duration": 24,
+    "season": "SPRING",
+    "seasonYear": 2024,
+    "averageScore": 77,
+    "popularity": 164050,
+    "favourites": 5005,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Drama"
+    ],
+    "studios": {
+      "nodes": [
+        {
+          "name": "CloverWorks"
+        },
+        {
+          "name": "Aniplex"
+        },
+        {
+          "name": "Kodansha"
+        },
+        {
+          "name": "Mainichi Broadcasting System"
+        },
+        {
+          "name": "Tohan"
+        },
+        {
+          "name": "CloverWorks"
+        }
+      ]
+    }
+  },
+  {
+    "id": 14467,
+    "idMal": 14467,
+    "source": "ORIGINAL",
+    "title": {
+      "romaji": "K",
+      "english": "K",
+      "native": "K"
+    },
+    "format": "TV",
+    "status": "FINISHED",
+    "episodes": 13,
+    "duration": 24,
+    "season": "FALL",
+    "seasonYear": 2012,
+    "averageScore": 71,
+    "popularity": 163942,
+    "favourites": 3120,
+    "genres": [
+      "Action",
+      "Mystery",
+      "Supernatural"
+    ],
+    "studios": {
+      "nodes": [
+        {
+          "name": "Starchild Records"
+        },
+        {
+          "name": "Viz Media"
+        },
+        {
+          "name": "Mainichi Broadcasting System"
+        },
+        {
+          "name": "GoHands"
+        },
+        {
+          "name": "KLOCKWORX"
+        }
+      ]
+    }
+  },
+  {
+    "id": 176301,
+    "idMal": 58514,
+    "source": "LIGHT_NOVEL",
+    "title": {
+      "romaji": "Kusuriya no Hitorigoto 2nd Season",
+      "english": "The Apothecary Diaries Season 2",
+      "native": "\u85ac\u5c4b\u306e\u3072\u3068\u308a\u3054\u3068 \u7b2c2\u671f"
+    },
+    "format": "TV",
+    "status": "FINISHED",
+    "episodes": 24,
+    "duration": 24,
+    "season": "WINTER",
+    "seasonYear": 2025,
+    "averageScore": 88,
+    "popularity": 163902,
+    "favourites": 8439,
+    "genres": [
+      "Drama",
+      "Mystery"
+    ],
+    "studios": {
+      "nodes": [
+        {
+          "name": "Toho"
+        },
+        {
+          "name": "TOHO animation STUDIO"
+        },
+        {
+          "name": "OLM"
+        },
+        {
+          "name": "Nippon Television Network"
+        },
+        {
+          "name": "Imagica Infos"
+        },
+        {
+          "name": "OLM"
+        },
+        {
+          "name": "Dentsu"
+        },
+        {
+          "name": "Shogakukan"
+        },
+        {
+          "name": "Square Enix"
+        }
+      ]
+    }
+  }
+]
