@@ -2,12 +2,7 @@ import os
 import pandas as pd
 
 def fetch_kaggle():
-    """
-    Validates the existence of the Kaggle CSV dataset and performs a
-    preliminary data integrity check for the pipeline.
-    """
     # Using os.path.join to handle potential space/versioning issues in filenames
-    # Ensure this matches your actual file name in data/raw/
     file_path = os.path.join("data", "raw", "anime-dataset-2023 2.csv")
 
     print(f"\n[KAGGLE] Starting Ingestion Check: {file_path}")
