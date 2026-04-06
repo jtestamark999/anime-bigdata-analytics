@@ -25,7 +25,7 @@ schema = T.StructType([
 ])
 
 def quick_search(spark, parquet_path):
-    print("\n --- QUICK SEARCH ---")
+    print("\n QUICK SEARCH ")
     raw_query = input("Enter Anime Name (e.g., One Piece): ").strip()
     if not raw_query:
         return
@@ -35,13 +35,13 @@ def quick_search(spark, parquet_path):
         df = spark.read.parquet(parquet_path)
         df.createOrReplaceTempView("search_table")
 
-        # --- SMART SEARCH LOGIC ---
+        #  SMART SEARCH LOGIC 
         # 1. We lowercase the query
-        # 2. We remove all spaces so 'Dragon Ball' becomes 'dragonball'
+        # 2. We remove all spaces 
         clean_query = raw_query.lower().replace(" ", "")
         search_term = f"%{clean_query}%"
 
-        # Execute SQL search using REPLACE to strip spaces from the DB titles to
+        
         # this handles cases where the DB says "Dragon Ball" but user types "DragonBall"
         results = spark.sql(f"""
             SELECT * FROM search_table 
@@ -101,11 +101,11 @@ def get_rankings(spark, parquet_path):
         print(f"\n[SYSTEM ERROR] Could not locate Parquet at {parquet_path}: {e}")
         return
 
-    # --- Step 2: User Inputs ---
+
     year_input = input("Enter Year (e.g., 2024, or press Enter to skip): ").strip()
     genre_input = input("Enter Genre (e.g., Action, or press Enter to skip): ").strip().capitalize()
 
-    # --- Step 3: Filtering Logic ---
+    # Filtering Logic 
     filtered_df = df
     if year_input:
         try:
@@ -116,12 +116,12 @@ def get_rankings(spark, parquet_path):
     if genre_input:
         filtered_df = filtered_df.filter(F.array_contains(F.col("genres"), genre_input))
 
-    # --- Step 4: Sorting & Collecting ---
+    #  Sorting & Collecting
     # Sort by Score descending and take Top 10
     results = filtered_df.orderBy(F.col("score").desc()).limit(10)
     data = results.collect()
 
-    # --- Step 5: Full Detail "Card" Printing ---
+    # Full Detail Printing 
     if data:
         print(f"\n Showing Top 10 {genre_input or 'All Genres'} Anime from {year_input or 'All Time'}:")
         for i, row in enumerate(data, 1):
@@ -167,7 +167,7 @@ def industry_trends(spark, parquet_path):
         return
 
     # 2. Processing: Explode studios, aggregate, and filter
-    # We explode because one anime can have multiple studios
+    # Anime can have multiple studios
     trends = df.withColumn("studio", F.explode(F.col("studios"))) \
         .groupBy("studio") \
         .agg(
@@ -182,7 +182,7 @@ def industry_trends(spark, parquet_path):
     # 3. Fetch data to local memory
     data = trends.collect()
 
-    # 4. Print results in the "System Standard" Card Style
+    # 4. Print results 
     if data:
         print(f"\n[INSIGHT] Top 10 Studios by Average Rating (Minimum 10 Shows):")
         for i, row in enumerate(data, 1):
@@ -192,7 +192,7 @@ def industry_trends(spark, parquet_path):
             print(f"TOTAL ANIME   | {int(row['Total_Anime'])}")
             print(f"HIGHEST SCORE | {row['Top_Score']:.2f}/10" if row['Top_Score'] else "HIGHEST SCORE | N/A")
 
-            # Progress bar visual (Optional but looks great for "Trends")
+            # Progress bar visual 
             bar_length = int(row['Avg_Score'] * 2)
             print(f"QUALITY BAR   | {'★' * bar_length}")
             print("-" * 30)
@@ -208,7 +208,7 @@ def surprise_me(spark, parquet_path):
         df = spark.read.parquet(parquet_path)
 
         # 3. Filter for High Quality (Score > 8.0)
-        # We use F.rand() to ensure it's truly random every time you run it
+        
         hidden_gems = df.filter(
             (F.array_contains(F.col("genres"), genre_input)) &
             (F.col("score") >= 8.0)
@@ -217,7 +217,7 @@ def surprise_me(spark, parquet_path):
         # Pick exactly 1 random row
         random_pick = hidden_gems.orderBy(F.rand()).limit(1).collect()
 
-        # 4. Display in the "Quick Search" Card Style
+        # 4. Display in the Quick Search
         if random_pick:
             row = random_pick[0]
             print(f"\n [SURPRISE RECOMMENDATION]")
