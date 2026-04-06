@@ -16,8 +16,8 @@ def run_pipeline(spark_input):
  start_time = time.time()
  print(f"\n[INFO] Starting pipeline run: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
 
- # --- STEP 1: FETCHING ---
- # Assuming these functions return counts or dataframes
+ # STEP 1: FETCHING 
+
  print("[INFO] Fetching data from Jikan API...")
  fetch_jikan()
 
@@ -27,9 +27,9 @@ def run_pipeline(spark_input):
  print("[INFO] Fetching data from Kaggle...")
  fetch_kaggle()
 
- # --- STEP 2: CLEANING & TRANSFORMING ---
+ #  STEP 2: CLEANING & TRANSFORMING 
  print("[INFO] Applying transformations and cleaning data...")
- # This should save the final parquet to your processed_path
+
 
  raw_j_df = spark_input.read.option("multiLine", "true").json(jikan_folder)
  raw_a_df = spark_input.read.option("multiLine", "true").json(anilist_folder)
@@ -43,7 +43,7 @@ def run_pipeline(spark_input):
  mega_df = integrate_datasets(c_jikan, c_anilist, c_kaggle)
 
  save_to_parquet(mega_df)
- # --- STEP 3: FINALIZING ---
+ # STEP 3: FINALIZING 
  total_duration = format_duration(time.time() - start_time)
  print(f"[INFO] Pipeline complete. Duration: {total_duration}")
  return mega_df
@@ -96,8 +96,8 @@ if __name__ == "__main__":
    case "6":
     display_data_dictionary()
    case "7":
-    # To check health, we must READ the data into DataFrames first
-    print("\n--- Health Report ---")
+   
+    print("\n Health Report ")
     check_data_health(spark.read.option("multiLine","true").json(jikan_folder), "Jikan Raw")
     check_data_health(spark.read.option("multiLine","true").json(anilist_folder), "Anilist Raw")
     raw_k_df = spark.read.format("csv") \
