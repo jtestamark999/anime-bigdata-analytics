@@ -95,7 +95,7 @@ After the pipeline finishes, an **Interactive Terminal** will open. This allows 
 
 
 **1** **System Status**
-View basic stats including total row count and Parquet file size.
+View basic stats, including total row count and Parquet file size.
 
 **2** **Quick Search**
 Search for any anime by title to see its merged metadata.
@@ -114,6 +114,9 @@ Explains the specific fields and data types within the master set.
 
 **7** **Data Health**
 **Crucial:** Runs a null-check and zero-check report on all data sources.
+
+**0** **Exit System**
+Close the application 
 
 ----------
 
