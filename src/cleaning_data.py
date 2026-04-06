@@ -9,7 +9,7 @@ MASTER_SCHEMA = [
 ]
 # Get the base directory 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-# Point to the FOLDERS, not the specific files
+# Point to the folders
 jikan_folder = os.path.join(BASE_DIR, "data/raw/jikan/")
 anilist_folder = os.path.join(BASE_DIR, "data/raw/anilist/")
 kaggle_file = os.path.join(BASE_DIR, "data/raw/anime-dataset-2023 2.csv")
@@ -153,7 +153,7 @@ def integrate_datasets(j_df, a_df, k_df):
 
     print("\n[INFO] STARTING SMART INTEGRATION\n")
 
-    # 1. Alias columns to keep track of sources (j_, a_, k_)
+    # 1. Alias columns to keep track of sources 
     j = j_df.select(*(F.col(c).alias(f"j_{c}") for c in j_df.columns))
     a = a_df.select(*(F.col(c).alias(f"a_{c}") for c in a_df.columns))
     k = k_df.select(*(F.col(c).alias(f"k_{c}") for c in k_df.columns))
@@ -213,7 +213,7 @@ def save_to_parquet(final_df):
     print(f"[INFO] Saving Final Dataset to Parquet: {file_path}")
 
     try:
-        # Using 'overwrite' allows you to re-run the pipeline safely
+        # Using 'overwrite' allows to re-run the pipeline safely
         final_df.write.mode("overwrite").parquet(file_path)
         print("[INFO] Parquet save successful.")
     except Exception as e:
