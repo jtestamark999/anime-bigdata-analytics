@@ -54,7 +54,7 @@ def clean_anilist(input_df):
 
     # 6. Final Formatting
     working_df = working_df.withColumn("studios",
-    F.when(F.size(F.col("matched_studios")) > 0, F.col("matched_studios")).otherwise(F.array(F.lit("Unknown"))))
+    F.when((F.size(F.col("matched_studios")) > 0), F.col("matched_studios")).otherwise(F.array(F.lit("Unknown"))))
 
     # Add missing columns for MASTER_SCHEMA alignment
     working_df = working_df.withColumn("themes", F.array().cast("array<string>")) \
@@ -129,8 +129,8 @@ def clean_kaggle(input_df):
 
     # 2. Use Coalesce to prioritize Premiered, then Aired, then default to 0 Coalesce picks the first NON-NULL value it sees
     working_df = working_df.withColumn("release_year",
-        F.coalesce(F.when(F.col("year_from_premiered") > 0, F.col("year_from_premiered")),
-                         F.when(F.col("year_from_aired") > 0, F.col("year_from_aired")),F.lit(0)))
+        F.coalesce((F.when(F.col("year_from_premiered") > 0), F.col("year_from_premiered")),
+                         F.when((F.col("year_from_aired") > 0), F.col("year_from_aired")),F.lit(0)))
 
     working_df = working_df.withColumn("release_year", F.expr("try_cast(regexp_extract(Aired, "
                                                               "'(\\d{4})', 1) as double)").cast("int"))
