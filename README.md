@@ -210,8 +210,15 @@ Implemented a structured raw directory for JSON and Kaggle CSV ingestion.
 **Done**|**Verification**
 `main.py` successfully displays uniform metadata across disparate sources.
 
-**Planned**|**Data Cleaning**
-Implementation of making the code more readable (For M4).
+**Done**|**Data Cleaning**
+Raw data was fully cleaned and transformed into Parquet.
+
+**Done**|**Dataset Integration**
+The 3 data sets where inner join on the mal_id, which acted as my primary key 
+
+**Done**|**Analytical Queries**
+The user is presented with a menu to analyze the master dataset.
+
 
 ## 1. Implementation Summary
 
@@ -254,7 +261,7 @@ The data moves through a standard ETL (Extract, Transform, Load) pipeline:
 
 A major architectural decision was to discontinue the "merge file" strategy for raw JSON data. I realized that merging raw data before cleaning was unnecessary and a significant time sink.
 
-Additionally, I made the strategic decision to **discontinue MongoDB** for this stage. After attempting to resolve compatibility issues between Spark and MongoDB, I determined that, for the current requirements, Spark’s native processing and Parquet storage offered a more resilient and less stressful solution for the project’s needs.
+Additionally, I decided to discontinue MongoDB for this stage. After attempting to resolve compatibility issues between Spark and MongoDB, I determined that, for the current requirements, Spark’s native processing and Parquet storage offered a more resilient and less stressful solution for the project’s needs.
 
 ## 4. Challenges & Solutions
 
