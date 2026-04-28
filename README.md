@@ -138,7 +138,7 @@ Close the application
 > **Performance Note:** The first run may take a few minutes as Spark processes ~30,000 records and performs complex Regex extractions. Subsequent interactions with the Terminal are near-instant because they read from the optimized `.parquet` file.
 --- 
 
-## Milestone 3 Status and Progress
+## Milestone 4 Status and Progress
 
 Status|Task
 Description
