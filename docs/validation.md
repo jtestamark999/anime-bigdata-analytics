@@ -1,6 +1,5 @@
 ### Health Report: Jikan Raw (REST API)
-
-### | Metric | Null Count | Metric | Null Count |
+| Metric | Null Count | Metric | Null Count |
 | --- | --- | --- | --- |
 | aired | 0 | members | 0 |
 | airing | 0 | popularity | 0 |
@@ -22,7 +21,7 @@
 
 ### Health Report: AniList Raw (GraphQL API)
 
-### | Metric | Null Count | Metric | Null Count |
+ | Metric | Null Count | Metric | Null Count |
 | --- | --- | --- | --- |
 | averageScore | 3,438 | popularity | 0 |
 | duration | 845 | season | 5,976 |
@@ -37,7 +36,7 @@
 
 ### Health Report: Kaggle Raw (CSV)
 
-### | Metric | Null Count | Metric | Null Count |
+ | Metric | Null Count | Metric | Null Count |
 | --- | --- | --- | --- |
 | anime_id | 0 | Producers | 0 |
 | Name | 0 | Licensors | 0 |
@@ -56,7 +55,7 @@
 
 ### Health Report: Final Master (Integrated)
 
-### | Metric | Null Count | Metric | Null Count |
+ | Metric | Null Count | Metric | Null Count |
 | --- | --- | --- | --- |
 | mal_id | 969 | status | 0 |
 | title | 0 | genres | 4,152 |
