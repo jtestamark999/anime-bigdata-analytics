@@ -137,64 +137,6 @@ Close the application
 > 
 > **Performance Note:** The first run may take a few minutes as Spark processes ~30,000 records and performs complex Regex extractions. Subsequent interactions with the Terminal are near-instant because they read from the optimized `.parquet` file.
 --- 
-##  Data Dictionary: Mega Anime Dataset
-
-The following table defines the schema for the cleaned and  Consolidated zones of the pipeline. All data is standardized from Jikan, AniList, and Kaggle sources.
-
-**Field Name** |   `Type`  
- Description
-
-**mal_id**       |`Double`  
- Unique ID from MyAnimeList (Primary Key / Join Key)
-
-**title** |`String`
-Primary Japanese/Romaji title
-
-**title_english**|`String`
-Official English title
-
-**release_year**|`Integer`
-Year the anime first aired (extracted via Regex)
-
-**score**|`Double`
-Average rating (0.00 to 10.00)
-
-**episodes**|`Double`
-Total episodes produced (stored as Double for decimal compatibility)
-
-**duration**|`String`
-Length per episode (e.g., '24 min per ep')
-
-**favorites**|`Double`
-Total users who favorited the entry
-
-**type**|`String`
-Format (TV, Movie, OVA, Special, etc.)
-
-**status**|`String`
-Airing status (Finished Airing, Currently Airing, etc.)
-
-**genres**|`Array<String>`
-List of genres (Action, Sci-Fi, Award Winning, etc.)
-
-**source**|`String`
-Original material (Manga, Light Novel, Original, etc.)
-
-**season**|`String`
-Airing season (spring, summer, fall, winter)
-
-**studios**|`Array<String>`
-Production companies (Bone, Mappa, etc.)
-
-**themes**|`Array<String>`
-Narrative themes (Mecha, Space, Adult Cast, etc.)
-
-**rank**|`Double`
-Global popularity/score rank
-
-**rating**|`String`
-Age classification (e.g., R - 17+, PG-13)
-
 
 ## Milestone 3 Status and Progress
 
@@ -275,14 +217,3 @@ Additionally, I decided to discontinue MongoDB for this stage. After attempting 
 ## 5. Performance Observations
 
 The most time-consuming phase is the acquisition of raw data. This requires **judicious delays (rate-limiting)** to prevent HTTP 404 or 429 errors from the APIs. While the Spark transformations are currently highly efficient, I will continue to monitor for bottlenecks as we move into more complex M4 analytics.
-
-## 6. Remaining Work
-
-For **M4**, the focus will shift toward:
-
--   Refining the user interface and potentially developing a **GUI** for a fully functional application.
-    
--   Conducting further rigorous testing on joined datasets.
-    
--   Codebase optimization, including class separation to improve maintainability and performance.
-
